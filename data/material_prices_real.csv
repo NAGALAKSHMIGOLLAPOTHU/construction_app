@@ -1,0 +1,1001 @@
+Date,City,Material,Brand,Supplier,Min_Price,Max_Price,Rating
+2024-08-24,Chennai,Bricks,Ramco,SupplierB,254,293,4.0
+2024-07-29,Mumbai,Bricks,Ramco,SupplierD,652,705,4.8
+2024-08-22,Bangalore,Sand,Ramco,SupplierD,240,313,4.5
+2024-06-12,Delhi,Sand,UltraTech,SupplierA,622,680,4.3
+2024-11-04,Mumbai,Bricks,Ramco,SupplierC,416,465,3.7
+2024-06-06,Delhi,Bricks,Dalmia,SupplierC,375,425,3.7
+2024-04-20,Chennai,TMT Steel Fe500,Tata,SupplierD,288,367,3.6
+2024-03-09,Bangalore,TMT Steel Fe550,LocalBrand,SupplierC,204,290,4.7
+2024-04-24,Bangalore,Red Bricks,LocalBrand,SupplierD,438,476,4.3
+2024-09-24,Bangalore,Sand,LocalBrand,SupplierC,435,509,4.5
+2024-09-01,Delhi,Sand,Ramco,SupplierB,242,270,3.5
+2024-11-03,Mumbai,Cement OPC 53 Grade,Ramco,SupplierD,728,793,4.9
+2024-12-13,Mumbai,Cement OPC 53 Grade,LocalBrand,SupplierC,633,661,4.7
+2024-05-18,Hyderabad,Cement OPC 53 Grade,JSW,SupplierC,699,762,3.8
+2024-11-16,Bangalore,Red Bricks,JSW,SupplierD,748,817,3.8
+2024-04-26,Hyderabad,TMT Steel Fe500,Dalmia,SupplierA,489,565,3.8
+2024-12-16,Chennai,Sand,LocalBrand,SupplierD,479,546,3.9
+2024-10-07,Hyderabad,Red Bricks,Dalmia,SupplierA,406,461,4.2
+2024-03-24,Delhi,Bricks,Ramco,SupplierD,248,310,4.1
+2024-06-02,Bangalore,Cement PPC Grade,Ramco,SupplierD,696,763,3.9
+2024-06-01,Mumbai,Red Bricks,JSW,SupplierC,350,426,4.4
+2024-04-04,Delhi,Sand,ACC,SupplierB,495,560,3.7
+2024-06-05,Delhi,TMT Steel Fe550,ACC,SupplierA,295,337,3.9
+2024-11-17,Mumbai,Cement OPC 53 Grade,Tata,SupplierA,650,747,4.0
+2024-05-18,Mumbai,Bricks,JSW,SupplierA,574,644,4.1
+2024-09-18,Hyderabad,Red Bricks,LocalBrand,SupplierB,386,418,4.6
+2024-12-05,Bangalore,TMT Steel Fe500,Dalmia,SupplierD,339,420,3.8
+2024-01-21,Bangalore,Red Bricks,Dalmia,SupplierC,665,736,4.2
+2024-12-12,Hyderabad,Sand,ACC,SupplierA,616,664,4.3
+2024-02-21,Chennai,TMT Steel Fe550,Ramco,SupplierC,475,547,3.6
+2024-12-03,Chennai,Sand,JSW,SupplierA,634,693,4.4
+2024-09-14,Chennai,TMT Steel Fe500,JSW,SupplierB,431,485,3.7
+2024-05-16,Bangalore,TMT Steel Fe550,UltraTech,SupplierA,752,816,3.6
+2024-07-23,Bangalore,Bricks,Ramco,SupplierA,267,345,4.8
+2024-07-31,Hyderabad,Bricks,Dalmia,SupplierC,641,705,4.9
+2024-09-10,Mumbai,Cement PPC Grade,Dalmia,SupplierD,528,591,4.6
+2024-09-30,Hyderabad,Sand,JSW,SupplierB,755,823,3.9
+2024-08-17,Delhi,TMT Steel Fe550,ACC,SupplierC,622,706,3.6
+2024-01-28,Hyderabad,Sand,Dalmia,SupplierD,641,701,4.5
+2024-11-01,Chennai,Cement OPC 53 Grade,ACC,SupplierD,547,592,4.1
+2024-11-27,Chennai,TMT Steel Fe500,JSW,SupplierA,717,769,3.7
+2024-06-25,Delhi,Sand,ACC,SupplierD,579,636,4.2
+2024-09-16,Mumbai,TMT Steel Fe550,JSW,SupplierD,372,435,3.5
+2024-09-15,Bangalore,Cement OPC 53 Grade,JSW,SupplierA,710,746,4.8
+2024-09-17,Mumbai,TMT Steel Fe550,JSW,SupplierC,741,807,3.9
+2024-09-25,Delhi,Cement OPC 53 Grade,UltraTech,SupplierD,389,426,4.4
+2024-04-02,Delhi,TMT Steel Fe550,ACC,SupplierB,465,523,3.9
+2024-12-23,Chennai,Cement OPC 53 Grade,Tata,SupplierC,291,331,4.2
+2024-01-02,Hyderabad,TMT Steel Fe500,Ramco,SupplierB,233,286,4.3
+2024-05-04,Mumbai,Cement PPC Grade,JSW,SupplierB,610,687,3.8
+2024-04-29,Hyderabad,Red Bricks,UltraTech,SupplierB,566,647,4.9
+2024-08-22,Hyderabad,Cement OPC 53 Grade,ACC,SupplierD,613,678,4.6
+2024-10-17,Chennai,Sand,Dalmia,SupplierB,547,592,4.8
+2024-10-11,Delhi,Bricks,Ramco,SupplierA,478,546,4.8
+2024-10-02,Hyderabad,Bricks,UltraTech,SupplierB,664,726,4.3
+2024-04-24,Mumbai,Sand,Tata,SupplierA,524,608,4.8
+2024-10-09,Chennai,Sand,LocalBrand,SupplierA,405,462,3.6
+2024-12-18,Chennai,Bricks,Tata,SupplierD,500,525,3.8
+2024-10-21,Chennai,Red Bricks,ACC,SupplierA,555,648,3.6
+2024-06-06,Bangalore,Sand,Tata,SupplierA,650,725,4.0
+2024-08-01,Mumbai,Cement OPC 53 Grade,JSW,SupplierD,303,373,4.0
+2024-12-24,Delhi,Cement PPC Grade,Ramco,SupplierC,604,675,3.9
+2024-10-11,Hyderabad,Cement PPC Grade,Ramco,SupplierA,345,414,4.7
+2024-09-13,Delhi,Cement OPC 53 Grade,LocalBrand,SupplierD,263,358,4.0
+2024-02-29,Bangalore,Sand,JSW,SupplierD,443,496,3.9
+2024-02-28,Delhi,TMT Steel Fe550,ACC,SupplierC,653,712,4.3
+2024-11-09,Bangalore,Red Bricks,UltraTech,SupplierA,431,470,3.7
+2024-10-16,Delhi,Cement OPC 53 Grade,ACC,SupplierB,437,468,4.6
+2024-02-01,Mumbai,TMT Steel Fe500,Ramco,SupplierC,622,648,3.6
+2024-08-31,Mumbai,Sand,JSW,SupplierB,315,368,4.9
+2024-08-08,Delhi,Sand,Tata,SupplierA,531,607,4.6
+2024-03-07,Bangalore,Cement PPC Grade,Dalmia,SupplierB,502,567,3.8
+2024-09-05,Chennai,Sand,Tata,SupplierD,655,709,3.5
+2024-08-06,Bangalore,Cement OPC 53 Grade,LocalBrand,SupplierC,402,472,4.6
+2024-11-08,Chennai,Cement OPC 53 Grade,LocalBrand,SupplierA,291,342,4.5
+2024-09-14,Chennai,Bricks,LocalBrand,SupplierD,572,649,4.5
+2024-12-11,Mumbai,Cement OPC 53 Grade,Dalmia,SupplierB,464,506,4.6
+2024-05-18,Delhi,TMT Steel Fe550,Tata,SupplierA,543,610,3.6
+2024-06-24,Chennai,TMT Steel Fe500,JSW,SupplierB,263,308,4.0
+2024-12-17,Delhi,Bricks,ACC,SupplierB,279,314,3.7
+2024-01-30,Bangalore,TMT Steel Fe550,Dalmia,SupplierB,408,465,4.7
+2024-03-25,Chennai,Sand,JSW,SupplierD,573,619,4.4
+2024-03-14,Mumbai,Sand,ACC,SupplierC,585,677,4.0
+2024-11-28,Delhi,Sand,JSW,SupplierC,771,837,3.6
+2024-12-26,Mumbai,Bricks,Dalmia,SupplierA,550,591,3.9
+2024-01-09,Bangalore,Bricks,Dalmia,SupplierB,560,615,4.0
+2024-08-11,Delhi,Sand,Dalmia,SupplierB,374,418,4.5
+2024-09-11,Delhi,Sand,ACC,SupplierC,270,330,4.4
+2024-08-27,Chennai,Cement PPC Grade,UltraTech,SupplierA,580,641,4.7
+2024-10-22,Hyderabad,Cement PPC Grade,Ramco,SupplierA,623,664,4.2
+2024-06-19,Mumbai,TMT Steel Fe500,LocalBrand,SupplierC,410,477,3.7
+2024-08-22,Bangalore,Sand,Ramco,SupplierD,734,795,4.5
+2024-08-22,Mumbai,Sand,Tata,SupplierB,521,589,4.6
+2024-10-25,Chennai,Red Bricks,JSW,SupplierC,240,274,4.3
+2024-03-31,Hyderabad,Sand,Ramco,SupplierD,767,821,4.6
+2024-05-06,Bangalore,Sand,Ramco,SupplierB,362,414,4.2
+2024-01-11,Hyderabad,Sand,JSW,SupplierC,762,809,4.2
+2024-01-03,Delhi,TMT Steel Fe550,ACC,SupplierD,269,340,4.1
+2024-08-22,Delhi,Sand,UltraTech,SupplierD,429,499,3.5
+2024-11-13,Chennai,Cement PPC Grade,UltraTech,SupplierD,430,463,3.7
+2024-11-16,Bangalore,Cement PPC Grade,Ramco,SupplierC,619,706,3.5
+2024-06-30,Chennai,Cement PPC Grade,ACC,SupplierC,297,386,4.4
+2024-04-30,Bangalore,Bricks,Ramco,SupplierD,562,621,3.9
+2024-04-09,Mumbai,TMT Steel Fe500,LocalBrand,SupplierC,292,382,4.2
+2024-02-05,Delhi,TMT Steel Fe550,Dalmia,SupplierA,482,528,4.8
+2024-03-25,Hyderabad,Sand,LocalBrand,SupplierD,514,547,3.8
+2024-04-21,Mumbai,TMT Steel Fe500,Tata,SupplierC,677,741,4.1
+2024-06-29,Mumbai,Red Bricks,Ramco,SupplierC,477,560,4.6
+2024-09-11,Mumbai,Cement PPC Grade,Dalmia,SupplierD,427,476,3.8
+2024-08-13,Delhi,Red Bricks,ACC,SupplierA,334,389,3.6
+2024-03-21,Hyderabad,Sand,LocalBrand,SupplierD,440,473,3.9
+2024-02-05,Delhi,TMT Steel Fe550,Tata,SupplierC,248,332,3.7
+2024-06-19,Delhi,Cement PPC Grade,JSW,SupplierD,750,803,4.8
+2024-05-13,Hyderabad,Sand,Dalmia,SupplierB,575,624,4.6
+2024-07-30,Delhi,TMT Steel Fe550,Tata,SupplierD,698,720,4.4
+2024-12-07,Hyderabad,Bricks,Dalmia,SupplierB,550,581,4.7
+2024-04-11,Delhi,TMT Steel Fe550,UltraTech,SupplierD,591,641,4.6
+2024-01-30,Mumbai,Sand,Tata,SupplierC,517,584,3.8
+2024-02-08,Bangalore,Bricks,JSW,SupplierB,267,347,4.7
+2024-04-28,Mumbai,Cement OPC 53 Grade,ACC,SupplierD,715,781,4.3
+2024-09-04,Bangalore,TMT Steel Fe500,Dalmia,SupplierB,489,534,4.6
+2024-06-01,Mumbai,Cement OPC 53 Grade,ACC,SupplierC,610,681,4.8
+2024-09-19,Hyderabad,Cement OPC 53 Grade,Ramco,SupplierD,416,454,3.9
+2024-04-18,Delhi,TMT Steel Fe500,Ramco,SupplierA,709,791,3.7
+2024-01-01,Delhi,TMT Steel Fe550,UltraTech,SupplierA,372,421,3.8
+2024-11-16,Chennai,Sand,LocalBrand,SupplierB,534,586,4.1
+2024-04-09,Hyderabad,Red Bricks,ACC,SupplierD,480,562,4.6
+2024-11-24,Mumbai,TMT Steel Fe550,LocalBrand,SupplierD,268,324,4.7
+2024-10-27,Chennai,Cement OPC 53 Grade,Tata,SupplierA,778,834,3.5
+2024-08-18,Delhi,Sand,LocalBrand,SupplierC,279,305,4.2
+2024-06-28,Hyderabad,Cement OPC 53 Grade,Dalmia,SupplierA,679,749,4.1
+2024-09-22,Mumbai,Sand,Dalmia,SupplierA,288,329,3.8
+2024-10-30,Chennai,Cement OPC 53 Grade,LocalBrand,SupplierC,590,672,3.7
+2024-12-30,Bangalore,TMT Steel Fe500,ACC,SupplierA,626,677,4.0
+2024-01-08,Mumbai,Red Bricks,LocalBrand,SupplierC,668,728,4.8
+2024-04-25,Delhi,TMT Steel Fe550,ACC,SupplierD,401,469,4.0
+2024-08-27,Delhi,Sand,LocalBrand,SupplierD,721,798,4.2
+2024-08-23,Bangalore,TMT Steel Fe500,Tata,SupplierC,560,614,4.5
+2024-10-11,Chennai,Bricks,LocalBrand,SupplierD,634,710,4.0
+2024-11-15,Bangalore,TMT Steel Fe550,UltraTech,SupplierA,435,512,4.9
+2024-01-11,Chennai,Cement PPC Grade,Dalmia,SupplierC,555,586,4.8
+2024-04-10,Mumbai,Bricks,Ramco,SupplierD,709,752,3.9
+2024-01-10,Delhi,TMT Steel Fe500,Tata,SupplierD,246,321,4.2
+2024-11-23,Hyderabad,Cement PPC Grade,Dalmia,SupplierB,273,326,3.9
+2024-12-11,Delhi,Cement PPC Grade,Dalmia,SupplierA,519,583,3.9
+2024-06-07,Delhi,Red Bricks,LocalBrand,SupplierB,472,542,3.6
+2024-06-21,Mumbai,Cement PPC Grade,Dalmia,SupplierA,315,411,4.4
+2024-03-05,Chennai,TMT Steel Fe500,Dalmia,SupplierC,399,427,4.2
+2024-04-18,Bangalore,Sand,UltraTech,SupplierD,324,368,3.6
+2024-11-28,Hyderabad,TMT Steel Fe500,LocalBrand,SupplierD,366,429,3.9
+2024-01-03,Bangalore,Red Bricks,ACC,SupplierB,461,536,4.8
+2024-02-05,Hyderabad,Cement PPC Grade,UltraTech,SupplierC,555,606,3.8
+2024-05-01,Mumbai,Sand,JSW,SupplierB,254,288,3.7
+2024-03-15,Chennai,Bricks,Ramco,SupplierA,542,621,4.2
+2024-09-05,Mumbai,Sand,LocalBrand,SupplierD,542,584,4.9
+2024-06-02,Mumbai,Sand,LocalBrand,SupplierC,406,467,3.8
+2024-11-01,Chennai,Cement OPC 53 Grade,LocalBrand,SupplierB,524,603,4.4
+2024-02-25,Hyderabad,Sand,Dalmia,SupplierA,249,307,4.6
+2024-09-05,Bangalore,Bricks,LocalBrand,SupplierD,305,364,3.8
+2024-02-26,Bangalore,TMT Steel Fe500,JSW,SupplierD,278,319,4.5
+2024-08-07,Bangalore,Red Bricks,ACC,SupplierB,501,566,4.0
+2024-10-15,Delhi,Cement PPC Grade,UltraTech,SupplierB,589,638,4.4
+2024-12-20,Hyderabad,Bricks,LocalBrand,SupplierD,318,360,4.4
+2024-05-15,Mumbai,Sand,Ramco,SupplierA,686,732,4.3
+2024-02-09,Delhi,TMT Steel Fe500,Ramco,SupplierD,553,633,3.6
+2024-07-21,Delhi,Red Bricks,ACC,SupplierD,697,766,4.7
+2024-02-26,Mumbai,Cement OPC 53 Grade,Tata,SupplierC,339,402,3.9
+2024-03-01,Hyderabad,TMT Steel Fe550,LocalBrand,SupplierC,606,652,3.8
+2024-07-07,Chennai,Cement OPC 53 Grade,Tata,SupplierC,670,705,3.6
+2024-09-14,Mumbai,TMT Steel Fe500,JSW,SupplierA,305,362,4.3
+2024-06-03,Hyderabad,TMT Steel Fe500,LocalBrand,SupplierC,654,724,4.4
+2024-06-02,Bangalore,TMT Steel Fe500,Dalmia,SupplierA,641,695,3.5
+2024-04-04,Mumbai,Sand,LocalBrand,SupplierB,349,404,4.2
+2024-12-18,Chennai,Cement OPC 53 Grade,JSW,SupplierC,689,755,3.8
+2024-09-10,Chennai,Sand,Dalmia,SupplierB,659,719,4.4
+2024-02-03,Bangalore,TMT Steel Fe500,Ramco,SupplierD,225,278,3.7
+2024-08-31,Hyderabad,TMT Steel Fe500,Dalmia,SupplierA,243,273,4.5
+2024-01-14,Mumbai,Sand,LocalBrand,SupplierA,532,628,4.0
+2024-04-13,Chennai,Cement PPC Grade,LocalBrand,SupplierB,769,806,4.8
+2024-03-24,Mumbai,Sand,Ramco,SupplierA,474,538,3.7
+2024-11-06,Bangalore,Sand,LocalBrand,SupplierB,546,571,4.0
+2024-02-07,Chennai,Sand,Dalmia,SupplierD,769,806,3.7
+2024-10-19,Hyderabad,Red Bricks,Dalmia,SupplierB,271,306,4.8
+2024-12-06,Delhi,Bricks,ACC,SupplierA,473,528,4.7
+2024-05-04,Hyderabad,Red Bricks,UltraTech,SupplierA,315,387,3.9
+2024-05-08,Mumbai,Red Bricks,UltraTech,SupplierA,638,703,4.4
+2024-10-25,Chennai,Sand,JSW,SupplierB,307,387,4.6
+2024-11-12,Bangalore,Bricks,JSW,SupplierA,701,767,4.3
+2024-04-26,Bangalore,Bricks,Ramco,SupplierC,675,745,4.2
+2024-08-02,Mumbai,TMT Steel Fe550,Tata,SupplierA,473,548,3.8
+2024-09-09,Mumbai,TMT Steel Fe500,Ramco,SupplierD,279,345,3.6
+2024-12-28,Hyderabad,Bricks,Dalmia,SupplierA,727,784,4.8
+2024-09-17,Mumbai,Red Bricks,UltraTech,SupplierB,786,815,4.8
+2024-07-01,Bangalore,TMT Steel Fe500,UltraTech,SupplierD,250,336,4.4
+2024-07-24,Bangalore,Red Bricks,Dalmia,SupplierC,365,433,4.0
+2024-02-29,Bangalore,Red Bricks,JSW,SupplierD,377,419,4.0
+2024-11-09,Delhi,Sand,Ramco,SupplierD,643,704,4.5
+2024-02-12,Mumbai,TMT Steel Fe500,UltraTech,SupplierD,428,457,4.8
+2024-03-08,Hyderabad,Cement OPC 53 Grade,UltraTech,SupplierB,365,425,4.7
+2024-05-28,Mumbai,Cement OPC 53 Grade,Dalmia,SupplierB,391,460,4.6
+2024-12-25,Chennai,Bricks,ACC,SupplierB,615,676,4.4
+2024-07-10,Delhi,TMT Steel Fe500,Dalmia,SupplierB,479,570,3.6
+2024-01-09,Chennai,Sand,UltraTech,SupplierA,302,356,3.7
+2024-07-03,Delhi,TMT Steel Fe550,JSW,SupplierA,657,727,4.8
+2024-05-28,Bangalore,Sand,LocalBrand,SupplierD,534,589,4.3
+2024-07-05,Chennai,Bricks,ACC,SupplierB,727,757,3.5
+2024-08-25,Hyderabad,TMT Steel Fe550,ACC,SupplierB,369,434,3.6
+2024-05-26,Bangalore,TMT Steel Fe550,LocalBrand,SupplierA,540,606,4.4
+2024-04-11,Delhi,Red Bricks,Dalmia,SupplierD,653,736,3.5
+2024-06-10,Chennai,Red Bricks,JSW,SupplierD,750,830,3.7
+2024-10-28,Delhi,TMT Steel Fe550,ACC,SupplierA,527,555,4.3
+2024-07-01,Hyderabad,Cement PPC Grade,Dalmia,SupplierA,453,535,4.5
+2024-08-29,Chennai,Cement OPC 53 Grade,Tata,SupplierD,715,812,4.4
+2024-08-30,Bangalore,Cement PPC Grade,JSW,SupplierB,280,323,3.8
+2024-02-09,Chennai,Red Bricks,ACC,SupplierC,585,646,4.5
+2024-08-23,Hyderabad,TMT Steel Fe500,ACC,SupplierA,728,778,3.8
+2024-02-19,Bangalore,Bricks,Dalmia,SupplierD,282,354,4.0
+2024-04-02,Chennai,TMT Steel Fe550,Dalmia,SupplierB,298,392,4.5
+2024-09-17,Delhi,Cement PPC Grade,Dalmia,SupplierB,651,721,4.4
+2024-01-08,Mumbai,Sand,Tata,SupplierA,670,758,4.7
+2024-10-16,Chennai,Cement OPC 53 Grade,UltraTech,SupplierA,504,561,4.4
+2024-01-04,Delhi,Cement PPC Grade,Tata,SupplierD,528,581,4.3
+2024-06-24,Hyderabad,Sand,ACC,SupplierD,669,736,3.6
+2024-02-24,Mumbai,Sand,JSW,SupplierD,431,491,4.0
+2024-04-12,Hyderabad,TMT Steel Fe500,LocalBrand,SupplierA,438,513,3.9
+2024-12-28,Bangalore,TMT Steel Fe500,Ramco,SupplierD,521,573,3.8
+2024-12-10,Chennai,TMT Steel Fe500,Tata,SupplierD,270,320,4.9
+2024-02-10,Mumbai,TMT Steel Fe500,LocalBrand,SupplierB,518,575,4.1
+2024-11-29,Chennai,Cement PPC Grade,Dalmia,SupplierA,221,276,4.7
+2024-09-19,Mumbai,Cement OPC 53 Grade,ACC,SupplierC,441,493,4.4
+2024-07-20,Chennai,Sand,UltraTech,SupplierB,591,650,4.6
+2024-06-10,Hyderabad,TMT Steel Fe550,JSW,SupplierC,269,325,4.2
+2024-12-03,Chennai,Sand,Ramco,SupplierB,679,750,4.3
+2024-04-01,Chennai,TMT Steel Fe500,JSW,SupplierC,423,503,4.2
+2024-09-25,Delhi,TMT Steel Fe500,Dalmia,SupplierD,294,373,3.8
+2024-02-28,Bangalore,Cement OPC 53 Grade,Ramco,SupplierA,354,411,4.5
+2024-12-03,Hyderabad,Cement OPC 53 Grade,JSW,SupplierC,698,732,3.9
+2024-09-02,Bangalore,TMT Steel Fe550,JSW,SupplierA,607,681,3.5
+2024-05-16,Hyderabad,TMT Steel Fe550,Dalmia,SupplierD,453,488,4.4
+2024-03-07,Delhi,Bricks,LocalBrand,SupplierD,548,581,3.7
+2024-01-23,Chennai,Bricks,Dalmia,SupplierB,485,522,4.8
+2024-05-11,Hyderabad,Sand,Tata,SupplierC,325,400,4.8
+2024-05-02,Hyderabad,Sand,UltraTech,SupplierC,725,753,4.8
+2024-10-06,Mumbai,Sand,UltraTech,SupplierD,644,712,4.0
+2024-01-31,Hyderabad,Sand,UltraTech,SupplierD,240,296,3.5
+2024-02-05,Chennai,Cement PPC Grade,LocalBrand,SupplierB,575,657,4.8
+2024-12-19,Chennai,Bricks,UltraTech,SupplierB,632,671,4.1
+2024-08-07,Delhi,Sand,ACC,SupplierA,616,673,4.9
+2024-06-08,Mumbai,Cement PPC Grade,ACC,SupplierC,499,542,4.8
+2024-09-14,Hyderabad,Bricks,Ramco,SupplierD,526,597,4.7
+2024-12-19,Mumbai,Sand,JSW,SupplierA,706,745,3.9
+2024-04-26,Bangalore,Sand,Ramco,SupplierA,694,749,4.0
+2024-08-15,Chennai,Cement PPC Grade,UltraTech,SupplierC,594,634,4.7
+2024-02-14,Delhi,Sand,JSW,SupplierC,659,734,3.9
+2024-03-22,Hyderabad,TMT Steel Fe550,LocalBrand,SupplierC,336,410,3.7
+2024-09-07,Chennai,Sand,ACC,SupplierA,692,719,4.3
+2024-12-01,Chennai,TMT Steel Fe550,JSW,SupplierD,651,694,4.8
+2024-04-29,Hyderabad,Cement PPC Grade,Tata,SupplierA,474,531,4.5
+2024-11-23,Mumbai,Cement PPC Grade,Tata,SupplierA,322,367,4.3
+2024-05-13,Hyderabad,TMT Steel Fe550,Dalmia,SupplierB,267,365,3.6
+2024-12-19,Delhi,Sand,Tata,SupplierD,363,454,4.4
+2024-03-21,Mumbai,Bricks,ACC,SupplierB,616,677,4.9
+2024-05-07,Hyderabad,Cement PPC Grade,Tata,SupplierD,461,524,3.7
+2024-08-31,Hyderabad,Cement OPC 53 Grade,Tata,SupplierD,581,642,4.2
+2024-12-21,Chennai,Red Bricks,UltraTech,SupplierC,662,718,4.7
+2024-08-04,Mumbai,Bricks,Tata,SupplierD,310,358,4.5
+2024-12-07,Hyderabad,Bricks,Dalmia,SupplierB,263,296,4.5
+2024-08-17,Bangalore,Bricks,UltraTech,SupplierA,398,470,4.5
+2024-07-27,Chennai,TMT Steel Fe550,UltraTech,SupplierC,564,617,4.0
+2024-05-15,Bangalore,Sand,Dalmia,SupplierC,221,283,3.9
+2024-12-15,Delhi,Sand,ACC,SupplierD,659,709,4.6
+2024-12-18,Bangalore,TMT Steel Fe500,LocalBrand,SupplierD,417,455,4.6
+2024-06-12,Chennai,TMT Steel Fe500,LocalBrand,SupplierC,710,738,4.7
+2024-09-02,Delhi,TMT Steel Fe550,Dalmia,SupplierA,393,449,4.8
+2024-11-17,Hyderabad,Cement OPC 53 Grade,ACC,SupplierC,290,326,4.2
+2024-11-06,Mumbai,Bricks,Tata,SupplierC,721,763,4.2
+2024-10-04,Delhi,Sand,ACC,SupplierD,684,748,4.6
+2024-09-09,Hyderabad,Cement OPC 53 Grade,UltraTech,SupplierD,666,696,4.4
+2024-08-09,Mumbai,Sand,UltraTech,SupplierD,264,310,4.5
+2024-06-06,Chennai,Cement PPC Grade,ACC,SupplierD,634,696,4.6
+2024-01-27,Bangalore,TMT Steel Fe500,Tata,SupplierC,603,635,4.7
+2024-12-03,Bangalore,Cement PPC Grade,Tata,SupplierB,355,401,4.0
+2024-03-01,Hyderabad,TMT Steel Fe500,ACC,SupplierB,317,388,4.0
+2024-08-20,Chennai,Sand,LocalBrand,SupplierA,752,816,3.6
+2024-10-04,Chennai,Sand,UltraTech,SupplierA,255,307,4.3
+2024-10-12,Hyderabad,Cement OPC 53 Grade,Ramco,SupplierC,263,314,3.6
+2024-07-29,Hyderabad,TMT Steel Fe550,Tata,SupplierD,750,819,4.2
+2024-10-29,Mumbai,TMT Steel Fe550,JSW,SupplierD,716,796,4.3
+2024-06-19,Bangalore,TMT Steel Fe500,JSW,SupplierB,684,743,3.9
+2024-12-04,Delhi,Red Bricks,Dalmia,SupplierA,475,544,4.3
+2024-02-23,Mumbai,TMT Steel Fe550,Dalmia,SupplierA,693,749,3.5
+2024-10-09,Hyderabad,Red Bricks,UltraTech,SupplierB,600,634,3.6
+2024-10-12,Bangalore,Red Bricks,LocalBrand,SupplierA,369,429,4.7
+2024-01-29,Hyderabad,TMT Steel Fe550,Tata,SupplierC,240,321,4.0
+2024-02-29,Bangalore,Cement OPC 53 Grade,ACC,SupplierC,670,746,3.7
+2024-12-22,Hyderabad,Sand,JSW,SupplierC,342,386,4.2
+2024-02-04,Bangalore,Sand,Dalmia,SupplierB,323,395,4.6
+2024-07-14,Delhi,Red Bricks,LocalBrand,SupplierD,523,603,3.8
+2024-03-31,Chennai,Cement OPC 53 Grade,Ramco,SupplierC,552,623,4.4
+2024-04-22,Chennai,Red Bricks,UltraTech,SupplierC,304,375,3.6
+2024-04-12,Bangalore,Red Bricks,UltraTech,SupplierC,692,749,3.6
+2024-06-17,Mumbai,Bricks,LocalBrand,SupplierA,551,618,4.2
+2024-11-28,Chennai,Bricks,JSW,SupplierB,622,680,4.3
+2024-02-20,Chennai,Cement OPC 53 Grade,UltraTech,SupplierA,494,564,4.4
+2024-06-11,Delhi,Cement OPC 53 Grade,UltraTech,SupplierD,300,343,4.5
+2024-07-02,Delhi,Cement OPC 53 Grade,Ramco,SupplierC,500,579,4.9
+2024-05-01,Chennai,TMT Steel Fe550,Dalmia,SupplierB,654,729,4.2
+2024-12-04,Mumbai,Bricks,UltraTech,SupplierC,467,524,4.0
+2024-12-16,Chennai,Sand,Dalmia,SupplierB,224,305,4.6
+2024-12-28,Delhi,Cement OPC 53 Grade,UltraTech,SupplierB,654,729,3.9
+2024-09-07,Mumbai,Cement OPC 53 Grade,UltraTech,SupplierA,740,808,4.1
+2024-01-19,Hyderabad,Bricks,UltraTech,SupplierD,391,446,3.6
+2024-11-19,Chennai,Bricks,Dalmia,SupplierD,472,528,3.5
+2024-11-26,Bangalore,Cement OPC 53 Grade,JSW,SupplierB,508,574,4.8
+2024-05-27,Chennai,TMT Steel Fe500,Dalmia,SupplierC,464,511,4.7
+2024-03-21,Delhi,Bricks,Dalmia,SupplierA,623,690,4.5
+2024-09-04,Hyderabad,Cement PPC Grade,Ramco,SupplierA,468,522,4.1
+2024-12-06,Hyderabad,Sand,LocalBrand,SupplierD,300,370,3.7
+2024-04-27,Hyderabad,Bricks,ACC,SupplierC,223,298,3.7
+2024-10-09,Bangalore,TMT Steel Fe500,JSW,SupplierA,246,326,3.9
+2024-03-23,Delhi,TMT Steel Fe550,Dalmia,SupplierA,562,652,4.3
+2024-07-09,Bangalore,TMT Steel Fe500,JSW,SupplierA,260,327,4.5
+2024-10-31,Bangalore,TMT Steel Fe500,Ramco,SupplierD,653,737,4.4
+2024-09-29,Hyderabad,Cement PPC Grade,Dalmia,SupplierA,444,533,3.9
+2024-12-29,Delhi,Bricks,Dalmia,SupplierD,218,298,4.8
+2024-01-21,Hyderabad,Sand,Tata,SupplierC,571,619,4.5
+2024-08-04,Mumbai,Bricks,ACC,SupplierA,483,537,4.3
+2024-08-31,Bangalore,TMT Steel Fe500,LocalBrand,SupplierD,592,669,4.4
+2024-09-09,Delhi,Red Bricks,ACC,SupplierC,682,746,4.1
+2024-02-21,Chennai,Sand,UltraTech,SupplierB,488,570,3.8
+2024-06-16,Delhi,Bricks,UltraTech,SupplierC,321,397,4.0
+2024-07-17,Chennai,TMT Steel Fe500,Dalmia,SupplierB,566,613,4.6
+2024-06-26,Mumbai,Cement PPC Grade,LocalBrand,SupplierC,297,362,3.5
+2024-10-22,Hyderabad,Sand,LocalBrand,SupplierC,257,307,3.7
+2024-08-12,Chennai,TMT Steel Fe500,ACC,SupplierC,537,624,3.6
+2024-02-12,Bangalore,Red Bricks,LocalBrand,SupplierB,458,521,3.6
+2024-03-14,Chennai,TMT Steel Fe550,Ramco,SupplierD,762,816,4.7
+2024-06-26,Bangalore,TMT Steel Fe550,JSW,SupplierA,241,327,4.5
+2024-08-04,Hyderabad,Red Bricks,ACC,SupplierA,732,789,4.2
+2024-07-11,Hyderabad,Bricks,UltraTech,SupplierA,506,584,3.6
+2024-09-24,Bangalore,Bricks,LocalBrand,SupplierC,717,756,4.2
+2024-01-28,Mumbai,Cement PPC Grade,Ramco,SupplierD,408,431,4.2
+2024-04-15,Hyderabad,Cement PPC Grade,UltraTech,SupplierA,569,620,3.7
+2024-11-17,Delhi,Red Bricks,ACC,SupplierA,289,315,4.1
+2024-02-27,Bangalore,Bricks,UltraTech,SupplierD,662,726,4.1
+2024-03-11,Mumbai,TMT Steel Fe500,JSW,SupplierA,328,412,4.4
+2024-03-04,Delhi,Sand,Dalmia,SupplierA,782,831,4.4
+2024-11-26,Chennai,TMT Steel Fe550,Ramco,SupplierA,415,461,3.6
+2024-01-28,Hyderabad,Red Bricks,Ramco,SupplierB,563,608,4.0
+2024-12-01,Bangalore,TMT Steel Fe550,JSW,SupplierD,455,485,4.4
+2024-10-01,Mumbai,TMT Steel Fe550,Ramco,SupplierA,739,823,4.2
+2024-05-28,Hyderabad,Bricks,Ramco,SupplierD,580,635,4.7
+2024-08-25,Hyderabad,Cement PPC Grade,Ramco,SupplierC,451,532,4.4
+2024-01-21,Delhi,Sand,JSW,SupplierC,769,805,3.7
+2024-01-31,Hyderabad,Cement PPC Grade,ACC,SupplierD,282,355,3.6
+2024-09-13,Bangalore,Sand,UltraTech,SupplierC,359,419,4.4
+2024-10-11,Mumbai,TMT Steel Fe500,JSW,SupplierD,692,733,3.5
+2024-11-08,Chennai,TMT Steel Fe550,ACC,SupplierA,482,546,4.3
+2024-10-31,Delhi,Bricks,JSW,SupplierD,542,577,4.8
+2024-02-11,Mumbai,TMT Steel Fe550,LocalBrand,SupplierD,716,780,4.3
+2024-09-24,Mumbai,Red Bricks,Tata,SupplierC,586,622,4.0
+2024-10-23,Chennai,Red Bricks,Ramco,SupplierC,580,623,4.4
+2024-01-21,Bangalore,Red Bricks,JSW,SupplierB,697,736,4.1
+2024-06-23,Bangalore,TMT Steel Fe500,LocalBrand,SupplierD,488,561,4.3
+2024-06-08,Bangalore,Sand,Dalmia,SupplierD,373,433,4.8
+2024-04-21,Delhi,Sand,LocalBrand,SupplierA,209,296,4.0
+2024-03-25,Chennai,Bricks,JSW,SupplierD,554,637,4.8
+2024-08-18,Mumbai,TMT Steel Fe550,LocalBrand,SupplierB,685,752,4.8
+2024-06-24,Delhi,TMT Steel Fe550,JSW,SupplierB,436,520,3.8
+2024-08-11,Hyderabad,Sand,JSW,SupplierA,666,728,3.6
+2024-01-29,Mumbai,Bricks,Tata,SupplierA,339,375,3.6
+2024-11-30,Hyderabad,Cement OPC 53 Grade,Tata,SupplierA,272,354,3.5
+2024-05-30,Delhi,Sand,LocalBrand,SupplierA,722,801,3.6
+2024-08-25,Bangalore,TMT Steel Fe500,JSW,SupplierA,482,537,4.5
+2024-03-20,Mumbai,TMT Steel Fe500,Dalmia,SupplierD,471,514,3.6
+2024-01-13,Mumbai,Cement OPC 53 Grade,LocalBrand,SupplierB,428,463,3.9
+2024-01-04,Delhi,Sand,UltraTech,SupplierC,412,465,4.7
+2024-10-07,Bangalore,Sand,Dalmia,SupplierD,771,811,3.5
+2024-01-07,Delhi,Sand,Ramco,SupplierD,668,742,4.6
+2024-07-17,Bangalore,TMT Steel Fe500,UltraTech,SupplierA,220,297,3.9
+2024-04-30,Mumbai,Sand,ACC,SupplierA,368,459,3.7
+2024-02-19,Chennai,Cement PPC Grade,Tata,SupplierA,617,680,4.5
+2024-06-01,Chennai,Sand,LocalBrand,SupplierD,341,401,4.4
+2024-12-03,Chennai,Sand,Dalmia,SupplierC,231,285,4.7
+2024-10-15,Mumbai,Bricks,ACC,SupplierD,246,337,4.5
+2024-02-11,Chennai,Sand,Tata,SupplierC,453,489,4.6
+2024-09-12,Delhi,Red Bricks,Ramco,SupplierB,318,382,3.9
+2024-09-18,Bangalore,Sand,Ramco,SupplierB,424,481,3.7
+2024-03-01,Chennai,Red Bricks,ACC,SupplierB,362,402,4.6
+2024-05-15,Chennai,Bricks,LocalBrand,SupplierC,581,626,4.6
+2024-08-06,Hyderabad,TMT Steel Fe500,ACC,SupplierD,517,565,4.9
+2024-02-23,Hyderabad,Bricks,ACC,SupplierC,742,788,4.1
+2024-07-02,Delhi,Red Bricks,LocalBrand,SupplierA,257,318,4.0
+2024-05-14,Delhi,TMT Steel Fe500,Dalmia,SupplierD,254,307,4.6
+2024-04-12,Bangalore,Cement PPC Grade,LocalBrand,SupplierC,510,557,4.0
+2024-08-20,Bangalore,Cement PPC Grade,Tata,SupplierD,537,635,4.8
+2024-06-06,Mumbai,Red Bricks,UltraTech,SupplierD,684,732,4.7
+2024-09-17,Hyderabad,Sand,Tata,SupplierA,419,504,4.1
+2024-07-22,Hyderabad,Red Bricks,LocalBrand,SupplierA,431,484,4.6
+2024-12-22,Bangalore,Red Bricks,Tata,SupplierB,613,687,4.6
+2024-10-21,Chennai,Sand,LocalBrand,SupplierD,727,792,3.6
+2024-06-10,Chennai,Red Bricks,Tata,SupplierB,760,800,4.8
+2024-11-10,Chennai,Bricks,JSW,SupplierD,522,570,4.2
+2024-04-10,Chennai,Red Bricks,ACC,SupplierB,513,567,4.7
+2024-12-28,Delhi,Sand,Dalmia,SupplierD,525,566,3.9
+2024-12-15,Chennai,Sand,Ramco,SupplierA,494,541,4.8
+2024-11-15,Delhi,Cement OPC 53 Grade,Ramco,SupplierA,354,445,4.0
+2024-11-06,Bangalore,Bricks,LocalBrand,SupplierC,387,451,3.5
+2024-07-11,Mumbai,Cement PPC Grade,Ramco,SupplierD,514,576,4.8
+2024-09-15,Hyderabad,TMT Steel Fe550,UltraTech,SupplierB,535,607,3.6
+2024-08-31,Hyderabad,Cement PPC Grade,ACC,SupplierD,711,777,3.9
+2024-07-21,Hyderabad,Bricks,LocalBrand,SupplierC,581,650,4.8
+2024-10-06,Bangalore,Cement OPC 53 Grade,Dalmia,SupplierB,772,810,4.8
+2024-05-06,Mumbai,Sand,LocalBrand,SupplierD,306,376,4.3
+2024-03-25,Hyderabad,Cement OPC 53 Grade,Ramco,SupplierD,613,684,4.4
+2024-07-31,Hyderabad,TMT Steel Fe550,JSW,SupplierC,501,557,4.1
+2024-10-24,Hyderabad,Sand,ACC,SupplierC,502,569,3.9
+2024-01-04,Hyderabad,Cement OPC 53 Grade,Dalmia,SupplierB,711,782,4.0
+2024-05-25,Mumbai,Cement OPC 53 Grade,Ramco,SupplierA,442,510,4.4
+2024-09-19,Delhi,Red Bricks,ACC,SupplierA,585,635,4.6
+2024-02-05,Chennai,Cement OPC 53 Grade,Tata,SupplierB,637,666,4.6
+2024-11-25,Bangalore,Sand,Dalmia,SupplierD,756,829,4.6
+2024-09-09,Hyderabad,Cement PPC Grade,Tata,SupplierA,606,684,3.6
+2024-12-27,Delhi,Cement OPC 53 Grade,Tata,SupplierB,550,619,4.2
+2024-03-30,Mumbai,Bricks,Dalmia,SupplierC,441,502,3.6
+2024-09-14,Bangalore,Red Bricks,Ramco,SupplierC,361,454,4.3
+2024-01-22,Delhi,Cement PPC Grade,Tata,SupplierD,578,646,4.1
+2024-07-22,Delhi,Bricks,LocalBrand,SupplierA,538,607,4.7
+2024-09-26,Chennai,Sand,Ramco,SupplierC,587,621,4.0
+2024-10-20,Bangalore,Red Bricks,Ramco,SupplierB,422,497,3.7
+2024-05-26,Hyderabad,Sand,JSW,SupplierA,555,631,3.7
+2024-05-26,Mumbai,TMT Steel Fe500,Dalmia,SupplierB,253,280,4.6
+2024-04-02,Hyderabad,Sand,Dalmia,SupplierB,255,310,4.4
+2024-04-18,Hyderabad,Bricks,LocalBrand,SupplierB,224,295,3.6
+2024-05-08,Delhi,Red Bricks,Dalmia,SupplierD,393,482,3.6
+2024-11-23,Bangalore,Bricks,LocalBrand,SupplierA,461,540,4.5
+2024-02-03,Delhi,Cement OPC 53 Grade,ACC,SupplierB,367,435,3.6
+2024-10-28,Delhi,Red Bricks,Ramco,SupplierA,694,757,4.7
+2024-11-03,Mumbai,Cement PPC Grade,UltraTech,SupplierC,653,717,4.5
+2024-10-13,Hyderabad,TMT Steel Fe500,Dalmia,SupplierD,466,538,3.6
+2024-01-20,Chennai,TMT Steel Fe550,Dalmia,SupplierB,442,490,3.6
+2024-01-09,Mumbai,TMT Steel Fe550,UltraTech,SupplierD,555,642,4.9
+2024-07-11,Delhi,TMT Steel Fe550,Ramco,SupplierD,381,446,4.0
+2024-03-18,Chennai,Cement OPC 53 Grade,Dalmia,SupplierC,523,594,4.0
+2024-11-08,Chennai,Bricks,LocalBrand,SupplierA,670,728,4.6
+2024-04-07,Chennai,Cement OPC 53 Grade,Dalmia,SupplierB,675,758,4.8
+2024-07-10,Delhi,TMT Steel Fe500,LocalBrand,SupplierC,729,786,4.9
+2024-12-08,Chennai,TMT Steel Fe550,Ramco,SupplierB,448,498,4.6
+2024-07-02,Mumbai,Sand,Dalmia,SupplierC,276,352,4.0
+2024-04-20,Delhi,Sand,LocalBrand,SupplierB,643,697,3.6
+2024-03-29,Chennai,TMT Steel Fe500,UltraTech,SupplierA,773,835,4.6
+2024-02-02,Hyderabad,Cement PPC Grade,Ramco,SupplierB,450,497,4.3
+2024-05-18,Mumbai,Cement OPC 53 Grade,JSW,SupplierA,241,325,4.1
+2024-09-03,Mumbai,Sand,JSW,SupplierA,582,648,4.8
+2024-04-25,Bangalore,Cement OPC 53 Grade,Tata,SupplierA,703,772,3.7
+2024-02-19,Chennai,Red Bricks,JSW,SupplierC,360,416,4.2
+2024-12-18,Bangalore,Red Bricks,UltraTech,SupplierB,536,603,3.5
+2024-05-09,Mumbai,TMT Steel Fe550,UltraTech,SupplierC,726,774,4.2
+2024-06-19,Chennai,Sand,Dalmia,SupplierA,377,443,3.6
+2024-07-08,Hyderabad,TMT Steel Fe550,Tata,SupplierB,720,756,3.7
+2024-12-07,Chennai,Red Bricks,Ramco,SupplierC,310,365,3.7
+2024-10-28,Hyderabad,TMT Steel Fe500,Dalmia,SupplierA,776,819,4.4
+2024-08-29,Chennai,TMT Steel Fe500,LocalBrand,SupplierB,292,363,4.5
+2024-12-19,Chennai,Cement PPC Grade,LocalBrand,SupplierA,278,310,4.3
+2024-04-29,Mumbai,Cement OPC 53 Grade,UltraTech,SupplierB,409,470,4.8
+2024-09-09,Bangalore,TMT Steel Fe500,LocalBrand,SupplierD,573,654,4.0
+2024-11-20,Delhi,TMT Steel Fe550,JSW,SupplierB,423,460,3.9
+2024-12-29,Bangalore,TMT Steel Fe550,Dalmia,SupplierC,308,382,4.7
+2024-02-29,Mumbai,Sand,LocalBrand,SupplierA,420,502,3.8
+2024-03-21,Delhi,Cement OPC 53 Grade,Tata,SupplierD,578,637,4.8
+2024-08-08,Hyderabad,TMT Steel Fe550,Ramco,SupplierC,767,818,3.5
+2024-07-01,Mumbai,Red Bricks,Dalmia,SupplierA,335,391,4.9
+2024-04-13,Bangalore,Sand,Tata,SupplierA,610,653,3.6
+2024-11-21,Mumbai,TMT Steel Fe500,ACC,SupplierB,412,475,4.7
+2024-05-02,Mumbai,Sand,UltraTech,SupplierB,742,823,4.2
+2024-09-30,Hyderabad,Red Bricks,UltraTech,SupplierD,485,528,4.9
+2024-04-25,Delhi,Cement PPC Grade,JSW,SupplierA,271,333,3.6
+2024-03-25,Bangalore,Cement PPC Grade,UltraTech,SupplierB,627,698,4.3
+2024-02-13,Mumbai,Cement OPC 53 Grade,ACC,SupplierD,572,667,4.9
+2024-11-11,Hyderabad,TMT Steel Fe550,Dalmia,SupplierC,586,651,4.2
+2024-04-22,Bangalore,Sand,Tata,SupplierA,622,674,4.4
+2024-05-17,Bangalore,Bricks,Ramco,SupplierA,215,281,4.5
+2024-01-14,Bangalore,Red Bricks,ACC,SupplierD,393,444,4.1
+2024-06-02,Mumbai,Cement PPC Grade,LocalBrand,SupplierC,631,689,4.4
+2024-03-16,Chennai,Red Bricks,LocalBrand,SupplierC,673,715,4.3
+2024-10-21,Delhi,TMT Steel Fe500,Tata,SupplierB,631,664,4.8
+2024-03-26,Chennai,Cement OPC 53 Grade,LocalBrand,SupplierD,316,398,3.6
+2024-02-29,Bangalore,Red Bricks,Tata,SupplierA,480,531,3.9
+2024-01-26,Bangalore,Cement OPC 53 Grade,UltraTech,SupplierC,702,774,4.8
+2024-12-08,Chennai,Cement PPC Grade,UltraTech,SupplierA,474,537,4.7
+2024-04-01,Hyderabad,Cement OPC 53 Grade,ACC,SupplierD,535,590,4.1
+2024-08-04,Bangalore,TMT Steel Fe500,ACC,SupplierD,745,776,4.4
+2024-03-28,Hyderabad,TMT Steel Fe500,JSW,SupplierA,613,655,3.9
+2024-03-15,Delhi,Bricks,Dalmia,SupplierA,440,507,3.8
+2024-08-24,Chennai,Bricks,Dalmia,SupplierA,362,428,4.1
+2024-09-14,Mumbai,Sand,Tata,SupplierC,302,383,4.0
+2024-12-20,Mumbai,Sand,LocalBrand,SupplierA,752,801,4.3
+2024-09-06,Delhi,TMT Steel Fe500,Dalmia,SupplierA,625,688,3.6
+2024-08-14,Delhi,Cement PPC Grade,UltraTech,SupplierC,618,668,4.9
+2024-06-12,Bangalore,TMT Steel Fe500,JSW,SupplierC,393,481,4.9
+2024-02-01,Chennai,Sand,Ramco,SupplierD,485,559,4.5
+2024-05-03,Chennai,Sand,Dalmia,SupplierD,321,394,4.3
+2024-01-19,Chennai,Cement PPC Grade,ACC,SupplierC,340,391,3.9
+2024-12-28,Hyderabad,TMT Steel Fe550,JSW,SupplierD,726,802,4.6
+2024-05-26,Hyderabad,Red Bricks,Ramco,SupplierC,645,694,4.5
+2024-05-01,Bangalore,TMT Steel Fe500,Dalmia,SupplierA,422,480,3.7
+2024-11-13,Chennai,Sand,UltraTech,SupplierA,554,600,4.8
+2024-04-12,Chennai,Cement PPC Grade,Tata,SupplierC,764,818,4.7
+2024-06-20,Bangalore,TMT Steel Fe500,Tata,SupplierA,682,748,4.8
+2024-01-03,Chennai,Sand,LocalBrand,SupplierD,413,450,4.5
+2024-08-17,Mumbai,TMT Steel Fe550,JSW,SupplierD,344,419,4.4
+2024-12-10,Chennai,Sand,UltraTech,SupplierC,315,342,4.1
+2024-10-15,Delhi,Cement OPC 53 Grade,Tata,SupplierB,566,611,4.8
+2024-12-24,Hyderabad,Sand,UltraTech,SupplierD,305,352,4.7
+2024-04-28,Delhi,Red Bricks,UltraTech,SupplierB,497,553,3.6
+2024-07-14,Bangalore,Sand,Dalmia,SupplierC,462,519,3.5
+2024-10-11,Hyderabad,TMT Steel Fe500,ACC,SupplierA,247,327,4.0
+2024-02-02,Delhi,TMT Steel Fe550,Ramco,SupplierC,313,365,4.6
+2024-05-19,Chennai,Red Bricks,LocalBrand,SupplierB,705,782,4.9
+2024-11-19,Bangalore,Bricks,LocalBrand,SupplierA,698,770,3.7
+2024-05-09,Mumbai,Bricks,Dalmia,SupplierC,502,565,4.3
+2024-11-24,Mumbai,Bricks,LocalBrand,SupplierA,649,706,4.0
+2024-04-03,Bangalore,Cement PPC Grade,Ramco,SupplierC,471,533,4.9
+2024-10-24,Hyderabad,Cement PPC Grade,Dalmia,SupplierB,494,537,4.7
+2024-03-17,Chennai,TMT Steel Fe500,Dalmia,SupplierD,439,507,4.7
+2024-05-02,Mumbai,Sand,JSW,SupplierC,579,641,4.2
+2024-12-01,Mumbai,Sand,ACC,SupplierB,435,474,4.1
+2024-01-24,Chennai,Bricks,LocalBrand,SupplierB,745,822,3.9
+2024-04-01,Bangalore,TMT Steel Fe500,JSW,SupplierD,260,315,3.6
+2024-06-05,Mumbai,TMT Steel Fe500,Dalmia,SupplierB,330,416,4.7
+2024-04-21,Hyderabad,Cement PPC Grade,LocalBrand,SupplierB,626,678,4.6
+2024-10-21,Mumbai,TMT Steel Fe550,Dalmia,SupplierA,512,582,4.9
+2024-08-11,Bangalore,Sand,Dalmia,SupplierB,440,505,4.9
+2024-08-27,Hyderabad,Cement PPC Grade,Dalmia,SupplierD,683,711,4.3
+2024-04-26,Chennai,TMT Steel Fe500,Dalmia,SupplierC,428,497,4.6
+2024-07-20,Chennai,TMT Steel Fe550,LocalBrand,SupplierC,460,515,4.8
+2024-09-26,Mumbai,Sand,UltraTech,SupplierB,667,731,4.7
+2024-06-30,Bangalore,Cement OPC 53 Grade,Tata,SupplierC,453,509,3.8
+2024-07-14,Chennai,TMT Steel Fe500,LocalBrand,SupplierA,390,464,4.1
+2024-05-21,Bangalore,Bricks,ACC,SupplierB,614,666,3.7
+2024-06-02,Delhi,TMT Steel Fe550,LocalBrand,SupplierB,628,720,4.8
+2024-10-02,Bangalore,Bricks,Dalmia,SupplierA,574,624,4.3
+2024-07-11,Delhi,Red Bricks,Dalmia,SupplierA,658,714,3.8
+2024-08-04,Mumbai,Red Bricks,LocalBrand,SupplierC,689,773,4.4
+2024-06-09,Hyderabad,Sand,LocalBrand,SupplierC,289,376,4.4
+2024-08-07,Hyderabad,TMT Steel Fe500,Ramco,SupplierA,582,626,4.0
+2024-02-20,Delhi,TMT Steel Fe500,UltraTech,SupplierA,448,518,3.7
+2024-07-16,Chennai,Cement OPC 53 Grade,ACC,SupplierB,738,808,4.4
+2024-11-21,Bangalore,Cement PPC Grade,Tata,SupplierD,683,743,4.2
+2024-04-10,Mumbai,Bricks,Ramco,SupplierB,420,484,4.6
+2024-02-28,Mumbai,Cement PPC Grade,Tata,SupplierD,446,511,4.2
+2024-02-07,Hyderabad,Red Bricks,Dalmia,SupplierA,295,341,4.7
+2024-02-28,Chennai,Red Bricks,Dalmia,SupplierD,357,423,4.3
+2024-07-26,Bangalore,Cement OPC 53 Grade,Dalmia,SupplierC,374,400,4.3
+2024-05-24,Chennai,TMT Steel Fe550,ACC,SupplierA,662,696,4.7
+2024-08-29,Mumbai,Red Bricks,ACC,SupplierD,464,523,4.1
+2024-03-31,Mumbai,TMT Steel Fe550,Tata,SupplierA,415,472,3.7
+2024-01-30,Mumbai,Bricks,LocalBrand,SupplierC,381,413,3.5
+2024-12-18,Delhi,TMT Steel Fe500,Ramco,SupplierB,707,763,4.6
+2024-09-07,Delhi,Red Bricks,Tata,SupplierC,434,493,4.4
+2024-08-25,Chennai,Sand,Dalmia,SupplierC,749,830,4.5
+2024-11-05,Chennai,Sand,UltraTech,SupplierD,334,414,3.8
+2024-07-20,Delhi,Sand,JSW,SupplierA,244,287,3.7
+2024-06-15,Bangalore,Bricks,Ramco,SupplierC,516,582,3.5
+2024-04-05,Chennai,TMT Steel Fe550,Dalmia,SupplierC,389,422,4.0
+2024-03-16,Mumbai,TMT Steel Fe500,LocalBrand,SupplierD,661,725,4.3
+2024-08-25,Mumbai,TMT Steel Fe550,JSW,SupplierB,458,547,4.0
+2024-02-21,Hyderabad,Bricks,ACC,SupplierA,303,389,4.1
+2024-09-14,Delhi,Sand,ACC,SupplierB,432,522,4.8
+2024-07-08,Delhi,Sand,ACC,SupplierA,640,719,4.0
+2024-01-30,Chennai,Red Bricks,UltraTech,SupplierA,640,683,4.2
+2024-02-03,Delhi,Cement OPC 53 Grade,JSW,SupplierC,698,762,4.6
+2024-04-13,Hyderabad,Bricks,ACC,SupplierC,248,314,4.1
+2024-10-22,Mumbai,TMT Steel Fe500,Ramco,SupplierB,423,508,4.4
+2024-10-11,Bangalore,TMT Steel Fe550,UltraTech,SupplierC,675,740,4.7
+2024-05-11,Chennai,Red Bricks,Ramco,SupplierA,294,348,4.8
+2024-04-15,Mumbai,Sand,Dalmia,SupplierD,611,654,3.7
+2024-03-27,Mumbai,TMT Steel Fe550,Tata,SupplierA,731,811,4.8
+2024-11-30,Mumbai,TMT Steel Fe500,Ramco,SupplierD,502,546,4.2
+2024-01-22,Mumbai,Bricks,Dalmia,SupplierA,532,593,3.9
+2024-10-02,Delhi,Bricks,LocalBrand,SupplierD,546,601,4.1
+2024-09-26,Chennai,Bricks,JSW,SupplierC,353,409,4.9
+2024-07-07,Mumbai,Sand,Ramco,SupplierC,724,787,4.2
+2024-03-18,Hyderabad,Sand,JSW,SupplierB,573,627,4.0
+2024-06-09,Chennai,Sand,UltraTech,SupplierA,264,329,4.4
+2024-07-21,Mumbai,TMT Steel Fe500,Ramco,SupplierA,743,810,3.8
+2024-10-11,Delhi,Sand,Ramco,SupplierB,628,718,3.6
+2024-03-24,Delhi,Sand,LocalBrand,SupplierD,394,441,3.7
+2024-07-07,Hyderabad,Sand,LocalBrand,SupplierD,610,682,3.7
+2024-08-24,Mumbai,Sand,Tata,SupplierC,436,511,3.7
+2024-08-28,Delhi,Bricks,Tata,SupplierC,387,468,3.7
+2024-05-10,Mumbai,Cement PPC Grade,JSW,SupplierD,486,533,4.4
+2024-04-11,Bangalore,Sand,Tata,SupplierA,385,420,3.8
+2024-06-03,Mumbai,Red Bricks,UltraTech,SupplierD,254,278,4.0
+2024-09-19,Chennai,Red Bricks,UltraTech,SupplierA,263,344,4.8
+2024-06-23,Delhi,Red Bricks,Ramco,SupplierB,627,649,4.2
+2024-09-16,Bangalore,TMT Steel Fe500,Ramco,SupplierA,610,674,4.4
+2024-05-30,Bangalore,Bricks,Ramco,SupplierD,464,515,3.7
+2024-11-21,Delhi,TMT Steel Fe550,Ramco,SupplierC,214,294,3.8
+2024-07-24,Bangalore,TMT Steel Fe550,JSW,SupplierB,754,813,3.6
+2024-01-05,Chennai,Red Bricks,Tata,SupplierD,399,443,3.7
+2024-11-13,Mumbai,Sand,Ramco,SupplierD,501,571,3.9
+2024-10-31,Mumbai,Sand,UltraTech,SupplierB,301,363,3.7
+2024-02-10,Mumbai,Red Bricks,UltraTech,SupplierA,753,829,3.6
+2024-06-08,Chennai,Cement OPC 53 Grade,ACC,SupplierC,232,314,3.7
+2024-08-15,Chennai,Bricks,LocalBrand,SupplierD,570,660,4.1
+2024-08-03,Chennai,TMT Steel Fe550,Tata,SupplierB,298,371,3.8
+2024-12-17,Mumbai,Sand,Tata,SupplierA,652,717,4.0
+2024-03-22,Chennai,Cement OPC 53 Grade,ACC,SupplierB,311,346,4.2
+2024-06-05,Bangalore,Sand,ACC,SupplierA,412,447,4.5
+2024-08-29,Delhi,TMT Steel Fe550,UltraTech,SupplierC,397,462,3.6
+2024-09-19,Bangalore,Bricks,Tata,SupplierA,485,532,4.6
+2024-01-29,Hyderabad,TMT Steel Fe550,Tata,SupplierA,286,348,4.4
+2024-11-14,Mumbai,TMT Steel Fe500,ACC,SupplierD,399,444,3.6
+2024-06-29,Bangalore,Red Bricks,UltraTech,SupplierA,212,309,4.7
+2024-12-04,Delhi,Bricks,Ramco,SupplierD,354,434,4.8
+2024-02-25,Bangalore,Bricks,LocalBrand,SupplierD,629,687,3.6
+2024-01-10,Hyderabad,TMT Steel Fe500,Dalmia,SupplierB,599,677,3.9
+2024-09-25,Hyderabad,Cement PPC Grade,UltraTech,SupplierA,732,767,4.6
+2024-09-22,Hyderabad,Red Bricks,UltraTech,SupplierC,538,579,4.5
+2024-01-23,Bangalore,Cement PPC Grade,UltraTech,SupplierB,336,399,3.8
+2024-08-07,Delhi,Bricks,Tata,SupplierB,248,290,3.8
+2024-12-03,Bangalore,Cement OPC 53 Grade,Tata,SupplierB,313,376,4.0
+2024-11-02,Delhi,TMT Steel Fe500,ACC,SupplierC,508,561,4.2
+2024-10-24,Bangalore,TMT Steel Fe550,ACC,SupplierC,626,699,4.4
+2024-05-29,Delhi,Red Bricks,LocalBrand,SupplierB,706,761,4.0
+2024-11-01,Bangalore,Red Bricks,UltraTech,SupplierC,332,368,4.1
+2024-08-05,Bangalore,TMT Steel Fe500,JSW,SupplierC,291,370,4.5
+2024-07-29,Hyderabad,Cement OPC 53 Grade,Tata,SupplierC,372,439,3.6
+2024-07-30,Mumbai,Bricks,LocalBrand,SupplierB,454,522,3.9
+2024-08-02,Hyderabad,TMT Steel Fe550,Dalmia,SupplierB,537,607,4.5
+2024-08-29,Chennai,Cement OPC 53 Grade,Tata,SupplierB,292,349,4.8
+2024-12-26,Bangalore,Sand,JSW,SupplierD,611,690,4.2
+2024-03-13,Hyderabad,Red Bricks,Ramco,SupplierB,567,649,4.2
+2024-03-25,Chennai,Red Bricks,Ramco,SupplierC,783,849,3.7
+2024-11-28,Hyderabad,Cement OPC 53 Grade,ACC,SupplierA,555,598,4.1
+2024-04-18,Bangalore,Red Bricks,Ramco,SupplierC,567,646,4.2
+2024-11-04,Bangalore,TMT Steel Fe500,Tata,SupplierD,545,610,3.8
+2024-06-28,Bangalore,Bricks,JSW,SupplierD,673,729,3.9
+2024-05-12,Hyderabad,Sand,LocalBrand,SupplierB,660,727,4.0
+2024-10-01,Delhi,Cement OPC 53 Grade,Ramco,SupplierC,739,771,3.5
+2024-07-14,Chennai,Cement PPC Grade,ACC,SupplierC,645,694,4.0
+2024-08-26,Mumbai,TMT Steel Fe500,UltraTech,SupplierC,566,630,3.8
+2024-04-02,Delhi,Red Bricks,Tata,SupplierB,541,601,4.0
+2024-08-09,Bangalore,Cement PPC Grade,LocalBrand,SupplierA,695,755,3.7
+2024-09-19,Hyderabad,TMT Steel Fe550,UltraTech,SupplierC,690,745,4.7
+2024-10-01,Delhi,TMT Steel Fe550,UltraTech,SupplierC,296,349,4.3
+2024-10-16,Mumbai,Cement PPC Grade,Ramco,SupplierD,261,322,4.5
+2024-08-25,Mumbai,TMT Steel Fe550,Tata,SupplierA,552,643,4.6
+2024-07-08,Delhi,Sand,Tata,SupplierA,463,513,4.2
+2024-11-17,Bangalore,Sand,Tata,SupplierA,314,357,3.6
+2024-03-25,Mumbai,Sand,LocalBrand,SupplierB,491,554,4.3
+2024-03-25,Mumbai,Red Bricks,UltraTech,SupplierD,568,635,4.3
+2024-01-12,Bangalore,TMT Steel Fe550,Dalmia,SupplierA,283,331,4.5
+2024-09-06,Mumbai,Bricks,Dalmia,SupplierD,643,723,4.1
+2024-04-14,Chennai,Sand,Tata,SupplierD,314,350,3.7
+2024-11-24,Hyderabad,Cement PPC Grade,ACC,SupplierA,547,603,3.9
+2024-11-30,Chennai,Sand,ACC,SupplierA,438,488,4.0
+2024-03-25,Hyderabad,Bricks,ACC,SupplierB,742,804,4.4
+2024-03-10,Delhi,Cement PPC Grade,LocalBrand,SupplierB,492,554,4.3
+2024-10-02,Bangalore,Cement OPC 53 Grade,Tata,SupplierA,393,441,4.0
+2024-01-22,Chennai,Red Bricks,ACC,SupplierD,442,477,4.9
+2024-05-09,Mumbai,Red Bricks,JSW,SupplierB,701,759,4.3
+2024-03-13,Bangalore,Cement PPC Grade,UltraTech,SupplierC,299,371,3.8
+2024-09-20,Delhi,Cement PPC Grade,UltraTech,SupplierB,690,724,3.6
+2024-01-30,Chennai,Red Bricks,UltraTech,SupplierC,497,527,3.7
+2024-04-29,Bangalore,Sand,Ramco,SupplierB,619,662,3.8
+2024-12-21,Hyderabad,TMT Steel Fe550,ACC,SupplierA,684,769,3.7
+2024-07-13,Chennai,Sand,ACC,SupplierD,249,306,3.8
+2024-10-13,Mumbai,Bricks,LocalBrand,SupplierC,699,767,3.9
+2024-07-25,Bangalore,Red Bricks,ACC,SupplierD,690,750,3.7
+2024-08-20,Chennai,Cement PPC Grade,ACC,SupplierB,338,404,4.8
+2024-11-13,Bangalore,Sand,Ramco,SupplierD,515,577,3.6
+2024-08-14,Delhi,Bricks,JSW,SupplierA,758,826,4.2
+2024-05-09,Delhi,Sand,Tata,SupplierB,236,274,4.1
+2024-01-25,Chennai,Bricks,LocalBrand,SupplierA,429,474,4.9
+2024-03-03,Delhi,Cement PPC Grade,Dalmia,SupplierB,423,509,3.7
+2024-10-22,Chennai,Bricks,LocalBrand,SupplierB,493,524,4.1
+2024-04-12,Mumbai,Red Bricks,Tata,SupplierC,327,408,4.9
+2024-03-21,Bangalore,Red Bricks,JSW,SupplierC,392,454,4.7
+2024-09-01,Bangalore,Red Bricks,Dalmia,SupplierB,556,630,4.6
+2024-05-15,Delhi,Cement PPC Grade,UltraTech,SupplierD,369,433,3.9
+2024-06-12,Chennai,Red Bricks,UltraTech,SupplierD,672,758,3.7
+2024-09-20,Hyderabad,Red Bricks,Ramco,SupplierD,304,382,4.4
+2024-07-19,Delhi,Sand,JSW,SupplierA,483,549,4.8
+2024-02-08,Bangalore,Cement OPC 53 Grade,UltraTech,SupplierD,347,429,4.3
+2024-07-20,Chennai,Cement OPC 53 Grade,LocalBrand,SupplierD,709,782,4.3
+2024-06-11,Chennai,Cement PPC Grade,JSW,SupplierC,520,576,3.9
+2024-10-07,Mumbai,TMT Steel Fe500,Dalmia,SupplierA,447,509,4.6
+2024-09-26,Hyderabad,Bricks,JSW,SupplierA,512,573,3.8
+2024-02-21,Hyderabad,Red Bricks,UltraTech,SupplierD,529,599,4.0
+2024-04-14,Hyderabad,Bricks,Tata,SupplierC,393,424,4.1
+2024-09-21,Hyderabad,Sand,Ramco,SupplierD,381,438,4.2
+2024-12-13,Hyderabad,Red Bricks,JSW,SupplierA,424,484,3.8
+2024-04-06,Delhi,Red Bricks,Dalmia,SupplierA,673,754,3.7
+2024-11-18,Mumbai,TMT Steel Fe500,UltraTech,SupplierC,305,360,4.4
+2024-03-19,Mumbai,Bricks,Tata,SupplierB,749,818,3.9
+2024-07-27,Delhi,Sand,UltraTech,SupplierA,242,291,4.3
+2024-06-22,Bangalore,TMT Steel Fe500,Dalmia,SupplierD,666,729,3.7
+2024-11-04,Delhi,Cement OPC 53 Grade,LocalBrand,SupplierC,530,607,4.2
+2024-03-08,Delhi,Sand,ACC,SupplierB,476,531,4.2
+2024-04-29,Bangalore,Sand,LocalBrand,SupplierD,611,675,3.6
+2024-04-01,Bangalore,Red Bricks,LocalBrand,SupplierC,584,638,4.0
+2024-10-31,Delhi,TMT Steel Fe500,Dalmia,SupplierB,507,572,3.7
+2024-06-20,Delhi,TMT Steel Fe500,Ramco,SupplierB,492,565,3.6
+2024-08-08,Chennai,Sand,Tata,SupplierB,626,713,4.9
+2024-01-19,Chennai,Cement OPC 53 Grade,JSW,SupplierD,723,756,4.0
+2024-06-08,Delhi,Cement PPC Grade,Ramco,SupplierC,673,739,4.6
+2024-01-13,Bangalore,Cement OPC 53 Grade,Dalmia,SupplierD,576,645,3.9
+2024-02-18,Hyderabad,Red Bricks,Ramco,SupplierA,320,399,4.5
+2024-02-15,Hyderabad,Red Bricks,Tata,SupplierA,724,800,4.6
+2024-05-14,Hyderabad,TMT Steel Fe550,JSW,SupplierA,774,816,4.3
+2024-04-01,Chennai,Sand,Tata,SupplierD,707,743,4.2
+2024-09-20,Chennai,Cement OPC 53 Grade,Ramco,SupplierC,577,656,4.1
+2024-01-17,Bangalore,TMT Steel Fe550,LocalBrand,SupplierC,405,437,4.0
+2024-05-13,Delhi,Red Bricks,LocalBrand,SupplierA,540,635,4.8
+2024-01-03,Bangalore,Sand,ACC,SupplierA,257,338,4.7
+2024-09-18,Chennai,Sand,Tata,SupplierA,492,571,4.9
+2024-10-19,Chennai,Sand,Tata,SupplierB,280,346,3.7
+2024-01-07,Mumbai,Sand,Dalmia,SupplierC,453,509,4.5
+2024-06-27,Chennai,Cement PPC Grade,Tata,SupplierB,285,360,4.8
+2024-08-03,Mumbai,Sand,LocalBrand,SupplierC,459,515,3.8
+2024-06-09,Bangalore,TMT Steel Fe550,Ramco,SupplierC,247,295,3.6
+2024-08-06,Bangalore,TMT Steel Fe500,LocalBrand,SupplierB,255,326,4.5
+2024-08-11,Hyderabad,Red Bricks,Tata,SupplierA,664,735,4.3
+2024-10-20,Chennai,TMT Steel Fe550,JSW,SupplierB,497,542,4.7
+2024-12-13,Bangalore,Sand,Ramco,SupplierD,488,517,3.7
+2024-11-17,Mumbai,Cement OPC 53 Grade,Ramco,SupplierB,445,524,4.6
+2024-08-30,Bangalore,Sand,Tata,SupplierB,280,348,3.8
+2024-07-06,Delhi,Cement OPC 53 Grade,Tata,SupplierB,357,409,3.7
+2024-03-08,Delhi,Cement PPC Grade,Ramco,SupplierD,452,538,3.7
+2024-07-08,Chennai,Bricks,ACC,SupplierB,281,326,4.6
+2024-08-05,Bangalore,Cement OPC 53 Grade,Dalmia,SupplierA,617,684,4.4
+2024-10-16,Bangalore,Bricks,Tata,SupplierB,498,534,4.2
+2024-07-26,Bangalore,Red Bricks,ACC,SupplierA,560,637,4.0
+2024-08-03,Mumbai,Sand,ACC,SupplierB,710,786,4.7
+2024-02-07,Chennai,Bricks,JSW,SupplierB,661,723,4.0
+2024-03-29,Mumbai,Sand,Tata,SupplierB,375,457,4.6
+2024-05-17,Chennai,Sand,ACC,SupplierD,668,695,4.1
+2024-08-05,Bangalore,TMT Steel Fe500,JSW,SupplierB,267,322,4.0
+2024-01-04,Delhi,Sand,JSW,SupplierB,536,584,4.1
+2024-11-17,Chennai,TMT Steel Fe550,UltraTech,SupplierD,642,709,3.9
+2024-08-31,Bangalore,Cement OPC 53 Grade,Ramco,SupplierA,721,766,4.5
+2024-07-02,Mumbai,Cement OPC 53 Grade,Tata,SupplierA,739,776,4.2
+2024-07-15,Hyderabad,Cement OPC 53 Grade,Dalmia,SupplierA,685,742,3.8
+2024-01-13,Delhi,Sand,Ramco,SupplierC,588,663,4.8
+2024-12-20,Delhi,Cement OPC 53 Grade,UltraTech,SupplierA,296,330,4.0
+2024-04-06,Bangalore,TMT Steel Fe500,JSW,SupplierD,327,406,4.3
+2024-03-12,Delhi,Sand,Dalmia,SupplierD,256,293,4.8
+2024-10-05,Mumbai,Bricks,UltraTech,SupplierA,316,397,4.4
+2024-01-14,Delhi,Sand,LocalBrand,SupplierC,291,362,3.7
+2024-12-22,Mumbai,Cement PPC Grade,JSW,SupplierB,232,313,4.8
+2024-01-09,Delhi,Cement OPC 53 Grade,Dalmia,SupplierA,236,290,4.4
+2024-10-01,Delhi,TMT Steel Fe500,Ramco,SupplierC,375,403,4.0
+2024-12-02,Hyderabad,Sand,Ramco,SupplierB,226,301,3.7
+2024-08-19,Mumbai,Sand,Ramco,SupplierD,251,293,4.6
+2024-06-29,Bangalore,TMT Steel Fe550,Dalmia,SupplierB,484,527,4.4
+2024-05-02,Hyderabad,Sand,Dalmia,SupplierD,231,284,4.2
+2024-01-19,Delhi,TMT Steel Fe550,UltraTech,SupplierC,469,534,4.8
+2024-08-07,Chennai,TMT Steel Fe500,Ramco,SupplierD,617,691,4.6
+2024-04-04,Chennai,Bricks,JSW,SupplierA,345,393,3.7
+2024-01-08,Chennai,TMT Steel Fe500,Ramco,SupplierA,647,709,3.9
+2024-08-10,Mumbai,Cement PPC Grade,LocalBrand,SupplierA,617,653,3.8
+2024-02-11,Delhi,Sand,UltraTech,SupplierA,619,667,4.5
+2024-10-28,Delhi,Cement OPC 53 Grade,UltraTech,SupplierD,372,419,3.5
+2024-10-09,Delhi,TMT Steel Fe500,Tata,SupplierD,679,738,4.3
+2024-02-20,Delhi,Bricks,Dalmia,SupplierA,763,833,4.6
+2024-09-04,Delhi,Sand,ACC,SupplierD,492,578,4.7
+2024-08-27,Hyderabad,Bricks,Ramco,SupplierD,310,368,4.0
+2024-03-14,Mumbai,TMT Steel Fe550,ACC,SupplierD,553,613,4.6
+2024-04-23,Delhi,TMT Steel Fe500,Tata,SupplierD,241,299,3.7
+2024-03-16,Bangalore,Red Bricks,Ramco,SupplierA,624,662,4.7
+2024-08-19,Hyderabad,Cement PPC Grade,Dalmia,SupplierC,533,597,3.7
+2024-09-03,Mumbai,TMT Steel Fe500,Ramco,SupplierA,473,507,4.1
+2024-08-08,Delhi,Cement PPC Grade,Dalmia,SupplierC,591,675,4.6
+2024-01-12,Delhi,Cement PPC Grade,Ramco,SupplierA,513,570,3.7
+2024-11-14,Chennai,TMT Steel Fe550,UltraTech,SupplierB,414,453,3.8
+2024-05-14,Delhi,Sand,Ramco,SupplierD,751,802,4.5
+2024-06-11,Chennai,Red Bricks,Dalmia,SupplierA,241,305,4.5
+2024-09-11,Delhi,Sand,Dalmia,SupplierC,623,694,4.4
+2024-12-17,Hyderabad,Sand,Ramco,SupplierC,376,447,4.5
+2024-04-05,Chennai,Sand,LocalBrand,SupplierA,643,689,4.3
+2024-06-19,Mumbai,Cement PPC Grade,Dalmia,SupplierA,714,795,3.9
+2024-03-13,Mumbai,TMT Steel Fe550,Tata,SupplierD,462,537,4.0
+2024-01-08,Hyderabad,Sand,UltraTech,SupplierD,340,377,3.8
+2024-10-15,Mumbai,Cement OPC 53 Grade,LocalBrand,SupplierC,530,558,4.8
+2024-09-08,Mumbai,Cement OPC 53 Grade,ACC,SupplierD,330,394,4.3
+2024-09-02,Delhi,Cement OPC 53 Grade,Tata,SupplierC,237,318,4.1
+2024-11-20,Delhi,Sand,Ramco,SupplierA,332,387,4.1
+2024-08-31,Hyderabad,Red Bricks,UltraTech,SupplierC,594,647,4.8
+2024-12-09,Chennai,Sand,ACC,SupplierA,770,814,3.7
+2024-11-21,Mumbai,Red Bricks,Ramco,SupplierA,695,761,4.3
+2024-06-19,Delhi,Cement PPC Grade,Dalmia,SupplierC,765,819,4.2
+2024-03-25,Mumbai,Sand,Tata,SupplierA,271,344,4.4
+2024-04-22,Hyderabad,Cement OPC 53 Grade,LocalBrand,SupplierB,242,299,3.5
+2024-08-06,Hyderabad,Cement OPC 53 Grade,LocalBrand,SupplierC,232,300,4.7
+2024-10-07,Delhi,Bricks,ACC,SupplierD,747,803,4.8
+2024-06-11,Hyderabad,Sand,Tata,SupplierD,668,723,4.3
+2024-05-14,Bangalore,TMT Steel Fe550,UltraTech,SupplierC,343,391,4.5
+2024-08-03,Chennai,Sand,UltraTech,SupplierC,482,539,4.8
+2024-01-09,Chennai,Sand,Tata,SupplierC,725,751,4.5
+2024-07-30,Bangalore,Sand,Tata,SupplierC,530,570,3.7
+2024-04-11,Delhi,TMT Steel Fe550,Dalmia,SupplierB,374,446,4.3
+2024-06-18,Hyderabad,Bricks,JSW,SupplierB,354,427,4.3
+2024-05-23,Mumbai,Red Bricks,Dalmia,SupplierD,570,654,4.1
+2024-04-10,Bangalore,Red Bricks,Dalmia,SupplierB,288,362,4.5
+2024-07-23,Mumbai,Cement PPC Grade,LocalBrand,SupplierA,666,739,4.8
+2024-10-06,Hyderabad,Cement OPC 53 Grade,Dalmia,SupplierA,708,748,4.8
+2024-12-26,Bangalore,Bricks,Dalmia,SupplierB,623,686,4.1
+2024-11-30,Chennai,TMT Steel Fe550,UltraTech,SupplierB,659,712,3.7
+2024-09-17,Hyderabad,Cement OPC 53 Grade,Ramco,SupplierD,746,810,4.9
+2024-05-15,Delhi,TMT Steel Fe500,Dalmia,SupplierA,517,564,4.7
+2024-10-27,Bangalore,Bricks,ACC,SupplierD,709,739,3.7
+2024-01-11,Mumbai,Cement PPC Grade,LocalBrand,SupplierB,539,564,4.8
+2024-02-07,Bangalore,Sand,UltraTech,SupplierD,501,551,4.7
+2024-06-20,Delhi,Bricks,UltraTech,SupplierA,514,606,4.2
+2024-02-17,Mumbai,Red Bricks,Dalmia,SupplierC,383,435,4.3
+2024-04-24,Mumbai,Cement PPC Grade,JSW,SupplierB,602,670,4.1
+2024-11-16,Delhi,Cement PPC Grade,Ramco,SupplierC,694,748,3.6
+2024-04-28,Mumbai,TMT Steel Fe550,ACC,SupplierB,621,685,4.0
+2024-02-25,Hyderabad,Cement PPC Grade,Tata,SupplierB,480,516,4.6
+2024-07-31,Delhi,TMT Steel Fe550,LocalBrand,SupplierC,252,328,3.5
+2024-04-29,Bangalore,TMT Steel Fe550,Dalmia,SupplierA,341,404,4.0
+2024-05-11,Delhi,Red Bricks,LocalBrand,SupplierB,765,816,4.1
+2024-01-19,Chennai,Bricks,LocalBrand,SupplierB,615,676,4.3
+2024-12-31,Delhi,Cement OPC 53 Grade,LocalBrand,SupplierB,772,835,4.8
+2024-03-03,Mumbai,Bricks,Ramco,SupplierB,777,828,4.0
+2024-07-14,Mumbai,TMT Steel Fe500,LocalBrand,SupplierA,527,601,4.0
+2024-04-21,Hyderabad,Sand,Tata,SupplierC,402,493,4.5
+2024-02-17,Chennai,Bricks,Dalmia,SupplierD,610,674,4.1
+2024-04-20,Hyderabad,TMT Steel Fe500,LocalBrand,SupplierB,291,363,3.8
+2024-12-03,Hyderabad,TMT Steel Fe500,JSW,SupplierC,301,350,4.1
+2024-01-08,Bangalore,TMT Steel Fe500,Dalmia,SupplierA,409,463,3.7
+2024-11-04,Chennai,Bricks,ACC,SupplierD,667,762,3.7
+2024-11-12,Chennai,Sand,Dalmia,SupplierA,459,499,4.2
+2024-03-31,Chennai,Sand,JSW,SupplierC,577,618,4.1
+2024-11-29,Mumbai,Red Bricks,UltraTech,SupplierC,243,336,4.8
+2024-12-08,Bangalore,Cement PPC Grade,Tata,SupplierD,601,665,4.0
+2024-10-26,Mumbai,Bricks,JSW,SupplierD,440,494,4.3
+2024-07-16,Hyderabad,TMT Steel Fe550,UltraTech,SupplierD,335,407,4.4
+2024-04-06,Mumbai,Sand,Ramco,SupplierD,478,574,3.5
+2024-02-17,Delhi,TMT Steel Fe550,LocalBrand,SupplierB,293,328,4.4
+2024-08-18,Delhi,Sand,Dalmia,SupplierD,352,400,3.7
+2024-04-07,Bangalore,TMT Steel Fe500,UltraTech,SupplierA,592,648,4.8
+2024-11-16,Hyderabad,Bricks,Tata,SupplierB,708,783,3.7
+2024-10-14,Delhi,TMT Steel Fe550,ACC,SupplierD,404,459,4.1
+2024-06-14,Delhi,Sand,JSW,SupplierA,332,424,3.6
+2024-02-04,Hyderabad,Cement PPC Grade,JSW,SupplierA,430,474,4.9
+2024-06-12,Chennai,Red Bricks,ACC,SupplierB,591,647,4.2
+2024-10-16,Bangalore,Red Bricks,Tata,SupplierD,413,444,4.3
+2024-05-14,Chennai,Sand,UltraTech,SupplierC,740,816,3.6
+2024-08-24,Chennai,Red Bricks,Ramco,SupplierA,512,583,4.5
+2024-03-09,Hyderabad,Red Bricks,Ramco,SupplierB,521,573,3.8
+2024-09-24,Chennai,Cement PPC Grade,LocalBrand,SupplierC,748,818,4.8
+2024-06-16,Mumbai,Red Bricks,ACC,SupplierD,418,482,3.8
+2024-11-14,Bangalore,Cement OPC 53 Grade,ACC,SupplierB,373,412,3.8
+2024-12-24,Bangalore,Sand,Dalmia,SupplierB,264,314,3.6
+2024-08-18,Delhi,Sand,Ramco,SupplierC,494,535,4.2
+2024-04-27,Hyderabad,TMT Steel Fe550,Dalmia,SupplierD,323,359,4.3
+2024-02-03,Bangalore,Sand,LocalBrand,SupplierD,719,775,3.6
+2024-12-21,Hyderabad,Red Bricks,ACC,SupplierC,236,315,4.6
+2024-12-23,Delhi,TMT Steel Fe550,LocalBrand,SupplierA,769,804,4.1
+2024-06-18,Delhi,Bricks,Ramco,SupplierC,556,635,4.2
+2024-01-11,Mumbai,Sand,ACC,SupplierB,694,787,4.1
+2024-02-14,Bangalore,TMT Steel Fe500,Ramco,SupplierA,702,778,4.1
+2024-12-03,Delhi,Sand,Dalmia,SupplierD,562,627,4.3
+2024-09-24,Delhi,Sand,Tata,SupplierA,494,536,3.7
+2024-04-12,Mumbai,TMT Steel Fe500,LocalBrand,SupplierB,511,594,3.8
+2024-12-16,Hyderabad,Cement PPC Grade,UltraTech,SupplierD,571,640,4.7
+2024-05-30,Mumbai,TMT Steel Fe550,ACC,SupplierD,513,607,4.8
+2024-11-02,Hyderabad,Bricks,Ramco,SupplierA,366,414,4.0
+2024-11-15,Hyderabad,TMT Steel Fe550,Tata,SupplierD,746,800,3.9
+2024-01-26,Mumbai,Sand,UltraTech,SupplierA,491,536,4.4
+2024-07-07,Mumbai,TMT Steel Fe550,ACC,SupplierB,447,512,4.1
+2024-03-15,Delhi,Sand,LocalBrand,SupplierC,372,445,3.5
+2024-12-02,Bangalore,Bricks,Tata,SupplierA,748,824,3.7
+2024-01-01,Hyderabad,Sand,Ramco,SupplierD,295,347,4.5
+2024-01-24,Delhi,Red Bricks,Tata,SupplierC,567,625,4.4
+2024-03-14,Delhi,Red Bricks,Tata,SupplierC,280,345,3.5
+2024-12-24,Hyderabad,Sand,Tata,SupplierD,307,355,3.8
+2024-07-04,Mumbai,Red Bricks,Dalmia,SupplierC,713,766,3.8
+2024-11-05,Hyderabad,Bricks,JSW,SupplierD,410,471,4.4
+2024-04-10,Hyderabad,Sand,JSW,SupplierC,441,524,3.5
+2024-11-05,Chennai,Bricks,UltraTech,SupplierA,430,503,3.6
+2024-08-12,Hyderabad,Sand,Ramco,SupplierC,262,318,4.6
+2024-04-29,Hyderabad,TMT Steel Fe550,ACC,SupplierA,287,334,3.7
+2024-05-18,Delhi,TMT Steel Fe500,UltraTech,SupplierA,533,584,4.4
+2024-03-02,Bangalore,Sand,Ramco,SupplierA,519,590,3.8
+2024-10-16,Chennai,Bricks,Dalmia,SupplierC,518,595,3.6
+2024-09-24,Delhi,TMT Steel Fe550,Dalmia,SupplierA,343,440,3.8
+2024-07-31,Mumbai,TMT Steel Fe500,Dalmia,SupplierA,607,642,4.5
+2024-02-24,Chennai,TMT Steel Fe500,Ramco,SupplierC,446,510,4.7
+2024-11-26,Chennai,Cement OPC 53 Grade,Ramco,SupplierD,590,661,4.7
+2024-10-01,Mumbai,TMT Steel Fe500,Tata,SupplierC,256,325,4.1
+2024-06-12,Delhi,TMT Steel Fe550,Ramco,SupplierC,685,754,4.4
+2024-02-08,Bangalore,Cement OPC 53 Grade,Tata,SupplierD,524,588,3.8
+2024-02-14,Bangalore,Cement PPC Grade,Ramco,SupplierA,682,751,3.9
+2024-09-28,Mumbai,Red Bricks,JSW,SupplierD,474,533,4.8
+2024-04-30,Mumbai,TMT Steel Fe500,Tata,SupplierA,636,684,3.5
+2024-08-02,Chennai,TMT Steel Fe550,Tata,SupplierD,298,369,3.6
+2024-01-24,Bangalore,Sand,Dalmia,SupplierC,384,461,3.8
+2024-09-15,Bangalore,TMT Steel Fe500,Ramco,SupplierD,623,699,3.5
+2024-04-10,Chennai,Red Bricks,JSW,SupplierD,636,673,3.8
+2024-01-21,Chennai,Cement OPC 53 Grade,Ramco,SupplierB,317,375,4.3
+2024-05-05,Delhi,TMT Steel Fe550,Ramco,SupplierB,248,304,4.1
+2024-05-23,Delhi,Sand,Ramco,SupplierA,336,388,4.7
+2024-10-21,Chennai,TMT Steel Fe500,LocalBrand,SupplierC,583,633,4.6
+2024-05-15,Mumbai,TMT Steel Fe500,LocalBrand,SupplierA,323,393,4.0
+2024-09-28,Delhi,Cement PPC Grade,Dalmia,SupplierB,403,480,3.9
+2024-01-12,Delhi,Cement PPC Grade,Dalmia,SupplierB,247,288,4.0
+2024-09-22,Hyderabad,Cement OPC 53 Grade,JSW,SupplierA,410,455,4.3
+2024-08-23,Chennai,Sand,LocalBrand,SupplierD,695,759,3.9
+2024-01-10,Delhi,Sand,Dalmia,SupplierA,465,531,4.4
+2024-01-14,Bangalore,TMT Steel Fe550,LocalBrand,SupplierC,488,546,4.1
+2024-04-20,Hyderabad,Sand,UltraTech,SupplierB,334,410,4.3
+2024-05-18,Mumbai,Bricks,Tata,SupplierA,734,766,4.1
+2024-04-15,Mumbai,Sand,Ramco,SupplierD,711,788,3.9
+2024-03-09,Chennai,Sand,Ramco,SupplierC,283,343,4.8
+2024-02-21,Bangalore,TMT Steel Fe550,ACC,SupplierA,721,761,4.6
+2024-05-21,Chennai,Bricks,UltraTech,SupplierA,472,510,3.7
+2024-06-20,Hyderabad,Bricks,Tata,SupplierD,569,630,4.7
+2024-10-17,Delhi,Red Bricks,LocalBrand,SupplierA,788,825,4.2
+2024-06-08,Mumbai,TMT Steel Fe500,UltraTech,SupplierB,387,455,4.8
+2024-10-26,Delhi,Red Bricks,Tata,SupplierB,602,669,4.6
+2024-06-27,Bangalore,Red Bricks,LocalBrand,SupplierB,705,783,4.1
+2024-04-28,Chennai,TMT Steel Fe550,ACC,SupplierA,263,324,3.5
+2024-03-12,Delhi,Red Bricks,UltraTech,SupplierA,421,483,3.9
+2024-02-06,Chennai,Cement PPC Grade,Tata,SupplierA,465,509,4.3
+2024-04-16,Delhi,TMT Steel Fe550,UltraTech,SupplierC,247,337,4.4
+2024-04-08,Chennai,Bricks,Dalmia,SupplierD,611,670,3.9
+2024-05-08,Bangalore,Sand,UltraTech,SupplierA,631,677,3.7
+2024-05-20,Mumbai,Cement OPC 53 Grade,ACC,SupplierC,589,643,4.7
+2024-04-13,Hyderabad,Cement PPC Grade,Dalmia,SupplierB,390,472,4.9
+2024-06-20,Hyderabad,Sand,Ramco,SupplierC,355,421,4.2
+2024-04-07,Bangalore,Red Bricks,Ramco,SupplierA,287,335,3.7
+2024-03-03,Hyderabad,TMT Steel Fe550,ACC,SupplierB,582,637,3.9
+2024-09-28,Delhi,TMT Steel Fe500,ACC,SupplierB,448,521,3.5
+2024-02-05,Hyderabad,TMT Steel Fe500,LocalBrand,SupplierA,509,546,4.8
+2024-11-21,Bangalore,Sand,JSW,SupplierC,381,424,3.7
+2024-10-24,Mumbai,Sand,LocalBrand,SupplierC,750,814,4.3
+2024-10-18,Chennai,TMT Steel Fe500,JSW,SupplierD,340,401,3.9
+2024-12-07,Bangalore,TMT Steel Fe500,UltraTech,SupplierA,643,691,4.3
+2024-11-05,Delhi,Cement OPC 53 Grade,Tata,SupplierD,712,765,4.4
+2024-01-26,Mumbai,TMT Steel Fe550,JSW,SupplierD,463,511,4.7
+2024-03-24,Delhi,Bricks,ACC,SupplierB,367,442,3.8
+2024-10-17,Bangalore,TMT Steel Fe550,UltraTech,SupplierB,752,792,3.5
+2024-02-03,Mumbai,TMT Steel Fe500,Tata,SupplierB,453,536,3.7
+2024-05-25,Bangalore,Bricks,UltraTech,SupplierB,565,630,4.8
+2024-01-17,Delhi,Bricks,JSW,SupplierB,405,467,4.7
+2024-06-11,Bangalore,Bricks,UltraTech,SupplierA,496,549,4.3
+2024-12-16,Delhi,Bricks,JSW,SupplierA,680,741,4.3
+2024-04-10,Chennai,Cement OPC 53 Grade,Tata,SupplierD,367,404,4.4
+2024-03-11,Mumbai,Red Bricks,LocalBrand,SupplierC,490,568,3.7
+2024-10-12,Mumbai,Bricks,JSW,SupplierB,378,470,4.8
+2024-08-07,Bangalore,TMT Steel Fe550,Tata,SupplierA,503,553,4.1
+2024-12-15,Delhi,Cement OPC 53 Grade,LocalBrand,SupplierB,373,470,4.0
+2024-02-24,Delhi,TMT Steel Fe500,JSW,SupplierC,534,576,4.2
+2024-09-04,Mumbai,Bricks,ACC,SupplierA,474,553,3.6
+2024-02-07,Mumbai,Sand,Tata,SupplierD,589,664,3.7
+2024-08-14,Hyderabad,Cement PPC Grade,Ramco,SupplierD,453,488,4.5
+2024-11-05,Bangalore,Sand,Tata,SupplierC,610,666,3.6
+2024-08-28,Delhi,Sand,Dalmia,SupplierA,439,516,4.3
+2024-11-27,Delhi,Cement PPC Grade,LocalBrand,SupplierB,368,448,3.8
+2024-02-03,Mumbai,Cement OPC 53 Grade,UltraTech,SupplierA,503,577,4.0
+2024-04-12,Hyderabad,TMT Steel Fe500,JSW,SupplierB,754,837,3.9
+2024-12-01,Bangalore,TMT Steel Fe500,UltraTech,SupplierC,562,595,4.0
+2024-01-21,Mumbai,Cement OPC 53 Grade,LocalBrand,SupplierA,276,363,4.5
+2024-12-07,Delhi,Cement PPC Grade,LocalBrand,SupplierD,406,481,3.9
+2024-01-28,Chennai,Sand,Dalmia,SupplierA,240,282,4.3
+2024-09-22,Mumbai,Sand,Dalmia,SupplierA,714,801,4.2
+2024-01-18,Mumbai,Bricks,Dalmia,SupplierB,347,392,4.4
+2024-09-17,Bangalore,Cement OPC 53 Grade,JSW,SupplierC,677,752,4.8
+2024-03-14,Bangalore,TMT Steel Fe550,JSW,SupplierA,342,410,4.5
+2024-10-16,Hyderabad,Bricks,Dalmia,SupplierC,346,415,3.8
+2024-11-23,Mumbai,Sand,Dalmia,SupplierA,362,418,3.5
+2024-05-23,Chennai,Sand,Ramco,SupplierB,239,295,3.9
+2024-01-05,Mumbai,Red Bricks,Tata,SupplierD,554,618,4.3
+2024-08-21,Mumbai,Sand,Ramco,SupplierB,479,551,3.6
+2024-11-04,Delhi,TMT Steel Fe500,Tata,SupplierB,508,541,4.2
+2024-10-09,Hyderabad,Cement PPC Grade,Dalmia,SupplierD,432,477,4.3
+2024-05-30,Bangalore,Red Bricks,Dalmia,SupplierA,322,370,4.0
+2024-07-17,Chennai,TMT Steel Fe550,Ramco,SupplierB,400,470,4.6
+2024-11-11,Bangalore,TMT Steel Fe500,Ramco,SupplierC,418,448,3.6
+2024-08-29,Hyderabad,Sand,Tata,SupplierD,749,814,3.6
+2024-08-16,Delhi,TMT Steel Fe500,Ramco,SupplierD,640,687,4.5
+2024-01-18,Hyderabad,Red Bricks,Tata,SupplierD,512,566,4.2
+2024-04-03,Delhi,TMT Steel Fe550,JSW,SupplierD,718,767,4.5
+2024-03-15,Bangalore,Sand,Dalmia,SupplierA,386,449,4.1
+2024-01-05,Hyderabad,Bricks,LocalBrand,SupplierC,307,364,3.8
+2024-12-21,Hyderabad,TMT Steel Fe550,Tata,SupplierC,481,528,4.6
+2024-03-17,Hyderabad,Bricks,Dalmia,SupplierD,352,426,4.6
+2024-04-09,Mumbai,Cement OPC 53 Grade,ACC,SupplierB,440,532,4.5
+2024-04-19,Mumbai,Bricks,ACC,SupplierA,550,629,3.9
+2024-10-07,Chennai,Bricks,Dalmia,SupplierA,662,727,4.3
+2024-03-16,Bangalore,Sand,JSW,SupplierA,609,693,4.0
+2024-05-04,Delhi,TMT Steel Fe500,UltraTech,SupplierC,762,824,3.6
+2024-07-04,Mumbai,Cement PPC Grade,LocalBrand,SupplierD,335,413,4.8
+2024-12-05,Mumbai,TMT Steel Fe500,UltraTech,SupplierB,212,266,3.7
+2024-07-08,Mumbai,TMT Steel Fe550,Tata,SupplierD,512,586,4.8
+2024-06-06,Bangalore,TMT Steel Fe550,Tata,SupplierB,734,814,4.1

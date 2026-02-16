@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Construction Cost Summary</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body style="background-image: url('/static/images/workers_bg.jpg');">
+
+<div class="card">
+    <h2>🏠 Construction Cost Summary</h2>
+
+    <p><b>City:</b> {{ city }}</p>
+    <p><b>Area per Floor:</b> {{ area }} sqft</p>
+    <p><b>Number of Floors:</b> {{ floors }}</p>
+    <p><b>Total Built-up Area:</b> {{ total_area }} sqft</p>
+    <p><b>Rate per sqft:</b> ₹{{ rate_per_sqft }}</p>
+
+    <div class="section">
+        <h3>🧱 Material Quantities</h3>
+        <ul>
+            <li>Cement: {{ cement }} bags</li>
+            <li>Sand: {{ sand }} CFT</li>
+            <li>Bricks: {{ bricks }} units</li>
+            <li>Steel: {{ steel }} kg</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>💰 Cost Breakdown</h3>
+        <ul>
+            <li>Material: ₹{{ material_cost }}</li>
+            <li>Labour: ₹{{ labour_cost }}</li>
+            <li>Interior: ₹{{ interior_cost }}</li>
+            <li>Electrical: ₹{{ electrical_cost }}</li>
+            <li>Approval: ₹{{ approval_cost }}</li>
+        </ul>
+    </div>
+
+    <div class="total">
+        ✅ Total Cost: ₹{{ total_cost }}
+    </div>
+
+    <a class="back" href="/">← Back</a>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Construction Cost Optimizer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="card">
+    <h1>🏗 Smart Construction Cost Optimizer</h1>
+
+    <form method="POST" action="/predict">
+
+        <label>Budget Mode</label>
+        <select name="budget_mode">
+            <option>Budget</option>
+            <option selected>Standard</option>
+            <option>Premium</option>
+        </select>
+
+        <label>Area (sqft)</label>
+        <input type="number" name="area" required>
+
+        <label>Floors</label>
+        <input type="number" name="floors" required>
+
+        <label>City</label>
+        <select name="city">
+            {% for c in cities %}
+            <option>{{ c }}</option>
+            {% endfor %}
+        </select>
+
+        <label>Building Type</label>
+        <select name="building_type">
+            <option>Residential</option>
+            <option>Commercial</option>
+        </select>
+
+        <label>Construction Type</label>
+        <select name="construction_type">
+            <option>RCC</option>
+            <option>Steel</option>
+        </select>
+
+        <button type="submit">Calculate</button>
+    </form>
+</div>
+
+</body>
+</html>
