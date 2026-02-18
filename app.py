@@ -20,7 +20,8 @@ CITY_RATES = {
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    # ✅ FIX: Pass cities to template
+    return render_template("index.html", cities=CITY_RATES.keys())
 
 
 @app.route("/predict", methods=["POST"])
@@ -65,7 +66,7 @@ def predict():
         "result.html",
         city=city,
         area=area,
-        floors=floors,              # ✅ FIXED
+        floors=floors,
         total_area=total_area,
         rate_per_sqft=rate_per_sqft,
         cement=cement,

@@ -25,9 +25,9 @@
         <input type="number" name="floors" required>
 
         <label>City</label>
-        <select name="city">
+        <select name="city" required>
             {% for c in cities %}
-            <option>{{ c }}</option>
+            <option value="{{ c }}">{{ c }}</option>
             {% endfor %}
         </select>
 
